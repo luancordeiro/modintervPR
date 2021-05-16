@@ -1,0 +1,76 @@
+id,bairro,distrito,nomeDistrito,codigo
+1,Alto Da Rua Xv,DSMZ,Matriz,5
+2,Cristo Rei,DSMZ,Matriz,6
+3,Centro,DSMZ,Matriz,1
+4,Rebouças,DSMZ,Matriz,8
+5,Água Verde,DSPR,Portão,9
+6,Jardim Das Américas,DSCJ,Cajuru,22
+7,Guabirotuba,DSCJ,Cajuru,23
+8,Prado Velho,DSMZ,Matriz,24
+9,Parolin,DSPR,Portão,25
+10,Hauer,DSBQ,Boqueirão,38
+11,Fanny,DSPN,Pinheirinho,39
+12,Guaíra,DSPR,Portão,26
+13,Lindóia,DSPN,Pinheirinho,40
+14,Boqueirão,DSBQ,Boqueirão,56
+15,Jardim Botânico,DSMZ,Matriz,7
+16,Batel,DSMZ,Matriz,10
+17,São Francisco,DSMZ,Matriz,2
+18,Bom Retiro,DSMZ,Matriz,13
+19,Mercês,DSMZ,Matriz,12
+20,Centro Cívico,DSMZ,Matriz,3
+21,Ahú,DSMZ,Matriz,14
+22,Juvevê,DSMZ,Matriz,15
+23,Hugo Lange,DSMZ,Matriz,17
+24,Tarumã,DSCJ,Cajuru,19
+25,Portão,DSPR,Portão,27
+26,Vila Izabel,DSPR,Portão,28
+27,Seminário,DSPR,Portão,29
+28,Campina Do Siqueira,DSSF,Santa Felicidade,30
+29,Boa Vista,DSBV,Boa vista,34
+30,Bacacheri,DSBV,Boa vista,35
+31,Capão Da Imbuia,DSCJ,Cajuru,20
+32,Bairro Alto,DSBV,Boa vista,36
+33,Jardim Social,DSMZ,Matriz,18
+34,Uberaba,DSCJ,Cajuru,37
+35,Xaxim,DSBQ,Boqueirão,57
+36,Santa Quitéria,DSPR,Portão,43
+37,Fazendinha,DSPR,Portão,42
+38,Mossunguê,DSSF,Santa Felicidade,45
+39,São João,DSSF,Santa Felicidade,48
+40,Pilarzinho,DSBV,Boa vista,32
+41,Taboão,DSBV,Boa vista,49
+42,Tingui,DSBV,Boa vista,54
+43,Novo Mundo,DSPN,Pinheirinho,41
+44,Santo Inácio,DSSF,Santa Felicidade,46
+45,Orleans,DSSF,Santa Felicidade,59
+46,Sítio Cercado,DSBN,Bairro Novo,65
+47,Cajuru,DSCJ,Cajuru,21
+48,Abranches,DSBV,Boa vista,50
+49,Cachoeira,DSBV,Boa vista,51
+50,São Lourenço,DSBV,Boa vista,33
+51,Barreirinha,DSBV,Boa vista,52
+52,Santa Cândida,DSBV,Boa vista,53
+53,Atuba,DSBV,Boa vista,55
+54,São Braz,DSSF,Santa Felicidade,60
+55,Butiatuvinha,DSSF,Santa Felicidade,61
+56,Lamenha Pequena,DSSF,Santa Felicidade,62
+57,Santa Felicidade,DSSF,Santa Felicidade,63
+58,Alto Boqueirão,DSBQ,Boqueirão,64
+59,Capão Raso,DSPN,Pinheirinho,58
+60,Pinheirinho,DSPN,Pinheirinho,66
+61,São Miguel,DSCIC,Cidade Industrial,67
+62,Augusta,DSCIC,Cidade Industrial,68
+63,Riviera,DSCIC,Cidade Industrial,69
+64,Caximba,DSTQ,Tatuquara,70
+65,Campo De Santana,DSTQ,Tatuquara,71
+66,Ganchinho,DSBN,Bairro Novo,72
+67,Umbará,DSBN,Bairro Novo,73
+68,Tatuquara,DSTQ,Tatuquara,74
+69,Cidade Industrial De Curitiba,DSCIC,Cidade Industrial,75
+70,Alto Da Glória,DSMZ,Matriz,4
+71,Bigorrilho,DSMZ,Matriz,11
+72,Cabral,DSMZ,Matriz,16
+73,Vista Alegre,DSSF,Santa Felicidade,31
+74,Campo Comprido,DSPR,Portão,44
+75,Cascatinha,DSSF,Santa Felicidade,47
