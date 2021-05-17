@@ -1,0 +1,341 @@
+localidade,idade,perc,sexo
+Bairro Novo,80+,0.0022,m
+Bairro Novo,75-79,0.0029,m
+Bairro Novo,70-74,0.0048,m
+Bairro Novo,65-69,0.0073,m
+Bairro Novo,60-64,0.0121,m
+Bairro Novo,55-59,0.0187,m
+Bairro Novo,50-54,0.0236,m
+Bairro Novo,45-49,0.03,m
+Bairro Novo,40-44,0.0373,m
+Bairro Novo,0-4,0.038599999999999995,m
+Bairro Novo,5-9,0.0408,m
+Bairro Novo,35-39,0.0408,m
+Bairro Novo,30-34,0.0432,m
+Bairro Novo,15-19,0.0461,m
+Bairro Novo,20-24,0.0463,m
+Bairro Novo,25-29,0.0463,m
+Bairro Novo,10-14,0.04650000000000001,m
+Boa Vista,80+,0.0052,m
+Boa Vista,75-79,0.0060999999999999995,m
+Boa Vista,70-74,0.0091,m
+Boa Vista,65-69,0.0123,m
+Boa Vista,60-64,0.0181,m
+Boa Vista,55-59,0.0229,m
+Boa Vista,50-54,0.029300000000000003,m
+Boa Vista,0-4,0.029500000000000002,m
+Boa Vista,5-9,0.031,m
+Boa Vista,45-49,0.0337,m
+Boa Vista,40-44,0.0355,m
+Boa Vista,10-14,0.036699999999999997,m
+Boa Vista,35-39,0.037000000000000005,m
+Boa Vista,15-19,0.0382,m
+Boa Vista,30-34,0.0421,m
+Boa Vista,20-24,0.0434,m
+Boa Vista,25-29,0.0446,m
+Boqueirão,80+,0.0042,m
+Boqueirão,75-79,0.004699999999999999,m
+Boqueirão,70-74,0.0078000000000000005,m
+Boqueirão,65-69,0.011000000000000001,m
+Boqueirão,60-64,0.0163,m
+Boqueirão,55-59,0.0216,m
+Boqueirão,50-54,0.0274,m
+Boqueirão,0-4,0.0321,m
+Boqueirão,45-49,0.0329,m
+Boqueirão,5-9,0.0349,m
+Boqueirão,40-44,0.0366,m
+Boqueirão,35-39,0.038599999999999995,m
+Boqueirão,10-14,0.0395,m
+Boqueirão,15-19,0.0417,m
+Boqueirão,30-34,0.042699999999999995,m
+Boqueirão,20-24,0.0438,m
+Boqueirão,25-29,0.0446,m
+CIC,80+,0.0025,m
+CIC,75-79,0.003,m
+CIC,70-74,0.0052,m
+CIC,65-69,0.0079,m
+CIC,60-64,0.0126,m
+CIC,55-59,0.019299999999999998,m
+CIC,50-54,0.0246,m
+CIC,45-49,0.029500000000000002,m
+CIC,40-44,0.0358,m
+CIC,0-4,0.0359,m
+CIC,35-39,0.0393,m
+CIC,5-9,0.039900000000000005,m
+CIC,30-34,0.0444,m
+CIC,15-19,0.0451,m
+CIC,10-14,0.0454,m
+CIC,20-24,0.047,m
+CIC,25-29,0.0483,m
+Cajuru,80+,0.0046,m
+Cajuru,75-79,0.0053,m
+Cajuru,70-74,0.008100000000000001,m
+Cajuru,65-69,0.0115,m
+Cajuru,60-64,0.0167,m
+Cajuru,55-59,0.0222,m
+Cajuru,50-54,0.0269,m
+Cajuru,45-49,0.032400000000000005,m
+Cajuru,0-4,0.0332,m
+Cajuru,5-9,0.034,m
+Cajuru,40-44,0.0356,m
+Cajuru,35-39,0.0377,m
+Cajuru,10-14,0.0403,m
+Cajuru,30-34,0.040999999999999995,m
+Cajuru,15-19,0.04190000000000001,m
+Cajuru,25-29,0.0438,m
+Cajuru,20-24,0.0455,m
+Matriz,75-79,0.009300000000000001,m
+Matriz,80+,0.011000000000000001,m
+Matriz,70-74,0.012,m
+Matriz,65-69,0.015600000000000001,m
+Matriz,5-9,0.0184,m
+Matriz,0-4,0.0189,m
+Matriz,10-14,0.0206,m
+Matriz,60-64,0.0219,m
+Matriz,55-59,0.0276,m
+Matriz,40-44,0.0291,m
+Matriz,50-54,0.03,m
+Matriz,45-49,0.0308,m
+Matriz,15-19,0.031400000000000004,m
+Matriz,35-39,0.0326,m
+Matriz,30-34,0.042199999999999994,m
+Matriz,20-24,0.0501,m
+Matriz,25-29,0.0525,m
+Pinheirinho,80+,0.0045000000000000005,m
+Pinheirinho,75-79,0.0052,m
+Pinheirinho,70-74,0.008,m
+Pinheirinho,65-69,0.0109,m
+Pinheirinho,60-64,0.015700000000000002,m
+Pinheirinho,55-59,0.022099999999999998,m
+Pinheirinho,50-54,0.0269,m
+Pinheirinho,0-4,0.0321,m
+Pinheirinho,45-49,0.032799999999999996,m
+Pinheirinho,5-9,0.0331,m
+Pinheirinho,40-44,0.037200000000000004,m
+Pinheirinho,35-39,0.0381,m
+Pinheirinho,10-14,0.0387,m
+Pinheirinho,15-19,0.0401,m
+Pinheirinho,30-34,0.044500000000000005,m
+Pinheirinho,20-24,0.045700000000000005,m
+Pinheirinho,25-29,0.045899999999999996,m
+Portão,80+,0.0068000000000000005,m
+Portão,75-79,0.006999999999999999,m
+Portão,70-74,0.0102,m
+Portão,65-69,0.013600000000000001,m
+Portão,60-64,0.0197,m
+Portão,55-59,0.0258,m
+Portão,5-9,0.026099999999999998,m
+Portão,0-4,0.026699999999999998,m
+Portão,10-14,0.0297,m
+Portão,50-54,0.030899999999999997,m
+Portão,40-44,0.0323,m
+Portão,45-49,0.0331,m
+Portão,35-39,0.0342,m
+Portão,15-19,0.0351,m
+Portão,20-24,0.0426,m
+Portão,30-34,0.0434,m
+Portão,25-29,0.04769999999999999,m
+Santa Felicidade,80+,0.0046,m
+Santa Felicidade,75-79,0.0048,m
+Santa Felicidade,70-74,0.0079,m
+Santa Felicidade,65-69,0.0116,m
+Santa Felicidade,60-64,0.0171,m
+Santa Felicidade,55-59,0.0231,m
+Santa Felicidade,50-54,0.0291,m
+Santa Felicidade,0-4,0.0315,m
+Santa Felicidade,5-9,0.0332,m
+Santa Felicidade,45-49,0.0344,m
+Santa Felicidade,10-14,0.0375,m
+Santa Felicidade,15-19,0.0383,m
+Santa Felicidade,40-44,0.0388,m
+Santa Felicidade,20-24,0.0394,m
+Santa Felicidade,35-39,0.0408,m
+Santa Felicidade,30-34,0.0424,m
+Santa Felicidade,25-29,0.0436,m
+Tatuquara,80+,0.0016,m
+Tatuquara,75-79,0.0023,m
+Tatuquara,70-74,0.0033,m
+Tatuquara,65-69,0.0054,m
+Tatuquara,60-64,0.0088,m
+Tatuquara,55-59,0.0131,m
+Tatuquara,50-54,0.02,m
+Tatuquara,45-49,0.0276,m
+Tatuquara,40-44,0.0364,m
+Tatuquara,35-39,0.0434,m
+Tatuquara,0-4,0.0436,m
+Tatuquara,20-24,0.0436,m
+Tatuquara,25-29,0.0464,m
+Tatuquara,30-34,0.046900000000000004,m
+Tatuquara,5-9,0.047,m
+Tatuquara,15-19,0.0487,m
+Tatuquara,10-14,0.0567,m
+Bairro Novo,75-79,0.0039000000000000003,f
+Bairro Novo,80+,0.0039000000000000003,f
+Bairro Novo,70-74,0.0064,f
+Bairro Novo,65-69,0.0095,f
+Bairro Novo,60-64,0.0144,f
+Bairro Novo,55-59,0.0215,f
+Bairro Novo,50-54,0.0282,f
+Bairro Novo,45-49,0.0339,f
+Bairro Novo,0-4,0.0363,f
+Bairro Novo,40-44,0.0394,f
+Bairro Novo,5-9,0.039900000000000005,f
+Bairro Novo,35-39,0.042300000000000004,f
+Bairro Novo,30-34,0.045,f
+Bairro Novo,10-14,0.045700000000000005,f
+Bairro Novo,15-19,0.047,f
+Bairro Novo,25-29,0.0471,f
+Bairro Novo,20-24,0.0478,f
+Boa Vista,75-79,0.0089,f
+Boa Vista,80+,0.0108,f
+Boa Vista,70-74,0.0129,f
+Boa Vista,65-69,0.0165,f
+Boa Vista,60-64,0.0231,f
+Boa Vista,0-4,0.0286,f
+Boa Vista,55-59,0.0296,f
+Boa Vista,5-9,0.03,f
+Boa Vista,10-14,0.0349,f
+Boa Vista,50-54,0.0355,f
+Boa Vista,15-19,0.0369,f
+Boa Vista,45-49,0.04019999999999999,f
+Boa Vista,40-44,0.0408,f
+Boa Vista,35-39,0.0412,f
+Boa Vista,20-24,0.043,f
+Boa Vista,30-34,0.0453,f
+Boa Vista,25-29,0.046799999999999994,f
+Boqueirão,75-79,0.0072,f
+Boqueirão,80+,0.0079,f
+Boqueirão,70-74,0.0106,f
+Boqueirão,65-69,0.0143,f
+Boqueirão,60-64,0.0209,f
+Boqueirão,55-59,0.0265,f
+Boqueirão,0-4,0.0316,f
+Boqueirão,50-54,0.032400000000000005,f
+Boqueirão,5-9,0.0331,f
+Boqueirão,45-49,0.0379,f
+Boqueirão,10-14,0.0382,f
+Boqueirão,40-44,0.039900000000000005,f
+Boqueirão,15-19,0.0405,f
+Boqueirão,35-39,0.042199999999999994,f
+Boqueirão,20-24,0.0437,f
+Boqueirão,30-34,0.045899999999999996,f
+Boqueirão,25-29,0.0472,f
+CIC,80+,0.004699999999999999,f
+CIC,75-79,0.0051,f
+CIC,70-74,0.0075,f
+CIC,65-69,0.010700000000000001,f
+CIC,60-64,0.0155,f
+CIC,55-59,0.0222,f
+CIC,50-54,0.0298,f
+CIC,45-49,0.0356,f
+CIC,0-4,0.035699999999999996,f
+CIC,5-9,0.0368,f
+CIC,40-44,0.0388,f
+CIC,35-39,0.0416,f
+CIC,10-14,0.0444,f
+CIC,15-19,0.0446,f
+CIC,30-34,0.0455,f
+CIC,20-24,0.0472,f
+CIC,25-29,0.048499999999999995,f
+Cajuru,75-79,0.0085,f
+Cajuru,80+,0.0089,f
+Cajuru,70-74,0.0109,f
+Cajuru,65-69,0.015,f
+Cajuru,60-64,0.0207,f
+Cajuru,55-59,0.0263,f
+Cajuru,0-4,0.032,f
+Cajuru,50-54,0.0326,f
+Cajuru,5-9,0.0336,f
+Cajuru,45-49,0.0375,f
+Cajuru,10-14,0.039,f
+Cajuru,40-44,0.039,f
+Cajuru,35-39,0.0406,f
+Cajuru,15-19,0.0407,f
+Cajuru,20-24,0.043899999999999995,f
+Cajuru,30-34,0.044500000000000005,f
+Cajuru,25-29,0.045599999999999995,f
+Matriz,75-79,0.0169,f
+Matriz,5-9,0.0175,f
+Matriz,0-4,0.0192,f
+Matriz,70-74,0.0197,f
+Matriz,10-14,0.020099999999999996,f
+Matriz,65-69,0.0225,f
+Matriz,80+,0.0258,f
+Matriz,60-64,0.0298,f
+Matriz,15-19,0.032799999999999996,f
+Matriz,40-44,0.035699999999999996,f
+Matriz,35-39,0.0361,f
+Matriz,55-59,0.0364,f
+Matriz,50-54,0.0401,f
+Matriz,45-49,0.0409,f
+Matriz,30-34,0.0453,f
+Matriz,20-24,0.053099999999999994,f
+Matriz,25-29,0.054299999999999994,f
+Pinheirinho,80+,0.0083,f
+Pinheirinho,75-79,0.0085,f
+Pinheirinho,70-74,0.0113,f
+Pinheirinho,65-69,0.0144,f
+Pinheirinho,60-64,0.0202,f
+Pinheirinho,55-59,0.0255,f
+Pinheirinho,5-9,0.0304,f
+Pinheirinho,0-4,0.0308,f
+Pinheirinho,50-54,0.0332,f
+Pinheirinho,10-14,0.037000000000000005,f
+Pinheirinho,45-49,0.0378,f
+Pinheirinho,40-44,0.039900000000000005,f
+Pinheirinho,35-39,0.0405,f
+Pinheirinho,15-19,0.0406,f
+Pinheirinho,20-24,0.0455,f
+Pinheirinho,30-34,0.045700000000000005,f
+Pinheirinho,25-29,0.049,f
+Portão,75-79,0.012199999999999999,f
+Portão,70-74,0.0152,f
+Portão,80+,0.0152,f
+Portão,65-69,0.0187,f
+Portão,5-9,0.0253,f
+Portão,60-64,0.0254,f
+Portão,0-4,0.0259,f
+Portão,10-14,0.029500000000000002,f
+Portão,55-59,0.0331,f
+Portão,15-19,0.0349,f
+Portão,40-44,0.0384,f
+Portão,50-54,0.0392,f
+Portão,35-39,0.0397,f
+Portão,45-49,0.0417,f
+Portão,20-24,0.0453,f
+Portão,30-34,0.045899999999999996,f
+Portão,25-29,0.049400000000000006,f
+Santa Felicidade,75-79,0.008,f
+Santa Felicidade,80+,0.009000000000000001,f
+Santa Felicidade,70-74,0.0108,f
+Santa Felicidade,65-69,0.015,f
+Santa Felicidade,60-64,0.0212,f
+Santa Felicidade,55-59,0.027999999999999997,f
+Santa Felicidade,0-4,0.030600000000000002,f
+Santa Felicidade,5-9,0.0315,f
+Santa Felicidade,50-54,0.0333,f
+Santa Felicidade,10-14,0.0356,f
+Santa Felicidade,15-19,0.0371,f
+Santa Felicidade,45-49,0.039,f
+Santa Felicidade,20-24,0.041100000000000005,f
+Santa Felicidade,40-44,0.042699999999999995,f
+Santa Felicidade,35-39,0.0451,f
+Santa Felicidade,25-29,0.046,f
+Santa Felicidade,30-34,0.047599999999999996,f
+Tatuquara,75-79,0.0026,f
+Tatuquara,80+,0.0028000000000000004,f
+Tatuquara,70-74,0.004,f
+Tatuquara,65-69,0.0063,f
+Tatuquara,60-64,0.0095,f
+Tatuquara,55-59,0.0147,f
+Tatuquara,50-54,0.0219,f
+Tatuquara,45-49,0.0296,f
+Tatuquara,40-44,0.036699999999999997,f
+Tatuquara,0-4,0.0437,f
+Tatuquara,35-39,0.0443,f
+Tatuquara,20-24,0.0453,f
+Tatuquara,5-9,0.046,f
+Tatuquara,30-34,0.04769999999999999,f
+Tatuquara,25-29,0.048,f
+Tatuquara,15-19,0.049400000000000006,f
+Tatuquara,10-14,0.0525,f
