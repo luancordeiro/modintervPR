@@ -8,9 +8,9 @@ Apucarana,f,30-34,1730.0,7.0,16
 Apucarana,f,35-39,1727.0,4.0,16
 Apucarana,f,40-44,1591.0,16.0,16
 Apucarana,f,45-49,1432.0,19.0,16
+Apucarana,f,5-9,332.0,0.0,16
 Apucarana,f,50-54,1362.0,29.0,16
 Apucarana,f,55-59,1204.0,37.0,16
-Apucarana,f,5:9,332.0,0.0,16
 Apucarana,f,60-64,805.0,62.0,16
 Apucarana,f,65-69,600.0,62.0,16
 Apucarana,f,70-74,439.0,64.0,16
@@ -25,9 +25,9 @@ Apucarana,m,30-34,1494.0,8.0,16
 Apucarana,m,35-39,1638.0,22.0,16
 Apucarana,m,40-44,1395.0,15.0,16
 Apucarana,m,45-49,1272.0,36.0,16
+Apucarana,m,5-9,347.0,0.0,16
 Apucarana,m,50-54,1207.0,39.0,16
 Apucarana,m,55-59,1054.0,70.0,16
-Apucarana,m,5:9,347.0,0.0,16
 Apucarana,m,60-64,721.0,75.0,16
 Apucarana,m,65-69,544.0,80.0,16
 Apucarana,m,70-74,390.0,69.0,16
@@ -42,9 +42,9 @@ Campo Mourão,f,30-34,1491.0,6.0,11
 Campo Mourão,f,35-39,1503.0,8.0,11
 Campo Mourão,f,40-44,1328.0,3.0,11
 Campo Mourão,f,45-49,1286.0,10.0,11
+Campo Mourão,f,5-9,311.0,0.0,11
 Campo Mourão,f,50-54,1300.0,16.0,11
 Campo Mourão,f,55-59,1036.0,26.0,11
-Campo Mourão,f,5:9,311.0,0.0,11
 Campo Mourão,f,60-64,714.0,32.0,11
 Campo Mourão,f,65-69,508.0,26.0,11
 Campo Mourão,f,70-74,386.0,30.0,11
@@ -59,9 +59,9 @@ Campo Mourão,m,30-34,1337.0,7.0,11
 Campo Mourão,m,35-39,1250.0,11.0,11
 Campo Mourão,m,40-44,1122.0,15.0,11
 Campo Mourão,m,45-49,1099.0,24.0,11
+Campo Mourão,m,5-9,316.0,0.0,11
 Campo Mourão,m,50-54,1061.0,17.0,11
 Campo Mourão,m,55-59,896.0,35.0,11
-Campo Mourão,m,5:9,316.0,0.0,11
 Campo Mourão,m,60-64,647.0,36.0,11
 Campo Mourão,m,65-69,460.0,48.0,11
 Campo Mourão,m,70-74,342.0,44.0,11
@@ -76,9 +76,9 @@ Cascavel,f,30-34,3368.0,8.0,10
 Cascavel,f,35-39,3344.0,6.0,10
 Cascavel,f,40-44,3067.0,16.0,10
 Cascavel,f,45-49,2722.0,18.0,10
+Cascavel,f,5-9,372.0,0.0,10
 Cascavel,f,50-54,2479.0,18.0,10
 Cascavel,f,55-59,1983.0,31.0,10
-Cascavel,f,5:9,372.0,0.0,10
 Cascavel,f,60-64,1397.0,42.0,10
 Cascavel,f,65-69,1033.0,56.0,10
 Cascavel,f,70-74,672.0,59.0,10
@@ -93,9 +93,9 @@ Cascavel,m,30-34,2724.0,14.0,10
 Cascavel,m,35-39,2742.0,19.0,10
 Cascavel,m,40-44,2398.0,16.0,10
 Cascavel,m,45-49,2323.0,26.0,10
+Cascavel,m,5-9,358.0,0.0,10
 Cascavel,m,50-54,2093.0,50.0,10
 Cascavel,m,55-59,1787.0,71.0,10
-Cascavel,m,5:9,358.0,0.0,10
 Cascavel,m,60-64,1366.0,86.0,10
 Cascavel,m,65-69,938.0,95.0,10
 Cascavel,m,70-74,644.0,93.0,10
@@ -110,9 +110,9 @@ Cianorte,f,30-34,856.0,1.0,13
 Cianorte,f,35-39,783.0,1.0,13
 Cianorte,f,40-44,726.0,2.0,13
 Cianorte,f,45-49,677.0,4.0,13
+Cianorte,f,5-9,126.0,0.0,13
 Cianorte,f,50-54,609.0,9.0,13
 Cianorte,f,55-59,483.0,6.0,13
-Cianorte,f,5:9,126.0,0.0,13
 Cianorte,f,60-64,342.0,14.0,13
 Cianorte,f,65-69,209.0,8.0,13
 Cianorte,f,70-74,154.0,17.0,13
@@ -127,9 +127,9 @@ Cianorte,m,30-34,772.0,1.0,13
 Cianorte,m,35-39,731.0,3.0,13
 Cianorte,m,40-44,592.0,4.0,13
 Cianorte,m,45-49,577.0,11.0,13
+Cianorte,m,5-9,160.0,0.0,13
 Cianorte,m,50-54,554.0,7.0,13
 Cianorte,m,55-59,451.0,10.0,13
-Cianorte,m,5:9,160.0,0.0,13
 Cianorte,m,60-64,286.0,13.0,13
 Cianorte,m,65-69,188.0,10.0,13
 Cianorte,m,70-74,135.0,20.0,13
@@ -144,9 +144,9 @@ Cornélio Procópio,f,30-34,1078.0,1.0,18
 Cornélio Procópio,f,35-39,1097.0,0.0,18
 Cornélio Procópio,f,40-44,999.0,8.0,18
 Cornélio Procópio,f,45-49,920.0,7.0,18
+Cornélio Procópio,f,5-9,341.0,0.0,18
 Cornélio Procópio,f,50-54,917.0,17.0,18
 Cornélio Procópio,f,55-59,816.0,20.0,18
-Cornélio Procópio,f,5:9,341.0,0.0,18
 Cornélio Procópio,f,60-64,619.0,18.0,18
 Cornélio Procópio,f,65-69,527.0,53.0,18
 Cornélio Procópio,f,70-74,341.0,21.0,18
@@ -161,9 +161,9 @@ Cornélio Procópio,m,30-34,946.0,4.0,18
 Cornélio Procópio,m,35-39,926.0,3.0,18
 Cornélio Procópio,m,40-44,876.0,12.0,18
 Cornélio Procópio,m,45-49,767.0,14.0,18
+Cornélio Procópio,m,5-9,367.0,0.0,18
 Cornélio Procópio,m,50-54,810.0,22.0,18
 Cornélio Procópio,m,55-59,738.0,37.0,18
-Cornélio Procópio,m,5:9,367.0,0.0,18
 Cornélio Procópio,m,60-64,574.0,42.0,18
 Cornélio Procópio,m,65-69,452.0,51.0,18
 Cornélio Procópio,m,70-74,337.0,36.0,18
@@ -178,9 +178,9 @@ Foz do Iguaçu,f,30-34,3379.0,9.0,9
 Foz do Iguaçu,f,35-39,3260.0,4.0,9
 Foz do Iguaçu,f,40-44,2942.0,15.0,9
 Foz do Iguaçu,f,45-49,2495.0,24.0,9
+Foz do Iguaçu,f,5-9,403.0,0.0,9
 Foz do Iguaçu,f,50-54,2333.0,31.0,9
 Foz do Iguaçu,f,55-59,1847.0,40.0,9
-Foz do Iguaçu,f,5:9,403.0,0.0,9
 Foz do Iguaçu,f,60-64,1315.0,53.0,9
 Foz do Iguaçu,f,65-69,924.0,67.0,9
 Foz do Iguaçu,f,70-74,592.0,60.0,9
@@ -195,9 +195,9 @@ Foz do Iguaçu,m,30-34,3023.0,7.0,9
 Foz do Iguaçu,m,35-39,2939.0,13.0,9
 Foz do Iguaçu,m,40-44,2628.0,20.0,9
 Foz do Iguaçu,m,45-49,2280.0,32.0,9
+Foz do Iguaçu,m,5-9,391.0,0.0,9
 Foz do Iguaçu,m,50-54,2040.0,48.0,9
 Foz do Iguaçu,m,55-59,1693.0,72.0,9
-Foz do Iguaçu,m,5:9,391.0,0.0,9
 Foz do Iguaçu,m,60-64,1210.0,82.0,9
 Foz do Iguaçu,m,65-69,891.0,98.0,9
 Foz do Iguaçu,m,70-74,623.0,109.0,9
@@ -212,9 +212,9 @@ Franscisco Beltrão,f,30-34,2343.0,3.0,8
 Franscisco Beltrão,f,35-39,2226.0,10.0,8
 Franscisco Beltrão,f,40-44,1999.0,11.0,8
 Franscisco Beltrão,f,45-49,1812.0,19.0,8
+Franscisco Beltrão,f,5-9,396.0,0.0,8
 Franscisco Beltrão,f,50-54,1608.0,14.0,8
 Franscisco Beltrão,f,55-59,1427.0,17.0,8
-Franscisco Beltrão,f,5:9,396.0,0.0,8
 Franscisco Beltrão,f,60-64,1005.0,33.0,8
 Franscisco Beltrão,f,65-69,684.0,35.0,8
 Franscisco Beltrão,f,70-74,471.0,38.0,8
@@ -229,9 +229,9 @@ Franscisco Beltrão,m,30-34,1995.0,5.0,8
 Franscisco Beltrão,m,35-39,1942.0,9.0,8
 Franscisco Beltrão,m,40-44,1658.0,13.0,8
 Franscisco Beltrão,m,45-49,1564.0,17.0,8
+Franscisco Beltrão,m,5-9,415.0,0.0,8
 Franscisco Beltrão,m,50-54,1465.0,28.0,8
 Franscisco Beltrão,m,55-59,1310.0,36.0,8
-Franscisco Beltrão,m,5:9,415.0,0.0,8
 Franscisco Beltrão,m,60-64,936.0,62.0,8
 Franscisco Beltrão,m,65-69,660.0,49.0,8
 Franscisco Beltrão,m,70-74,438.0,66.0,8
@@ -246,9 +246,9 @@ Guarapuava,f,30-34,1944.0,4.0,5
 Guarapuava,f,35-39,1866.0,10.0,5
 Guarapuava,f,40-44,1746.0,9.0,5
 Guarapuava,f,45-49,1589.0,20.0,5
+Guarapuava,f,5-9,387.0,0.0,5
 Guarapuava,f,50-54,1352.0,29.0,5
 Guarapuava,f,55-59,1192.0,42.0,5
-Guarapuava,f,5:9,387.0,0.0,5
 Guarapuava,f,60-64,835.0,44.0,5
 Guarapuava,f,65-69,535.0,42.0,5
 Guarapuava,f,70-74,384.0,37.0,5
@@ -263,9 +263,9 @@ Guarapuava,m,30-34,1773.0,5.0,5
 Guarapuava,m,35-39,1774.0,19.0,5
 Guarapuava,m,40-44,1590.0,16.0,5
 Guarapuava,m,45-49,1429.0,26.0,5
+Guarapuava,m,5-9,388.0,0.0,5
 Guarapuava,m,50-54,1248.0,40.0,5
 Guarapuava,m,55-59,1078.0,51.0,5
-Guarapuava,m,5:9,388.0,0.0,5
 Guarapuava,m,60-64,720.0,61.0,5
 Guarapuava,m,65-69,562.0,45.0,5
 Guarapuava,m,70-74,377.0,64.0,5
@@ -280,9 +280,9 @@ Irati,f,30-34,868.0,0.0,4
 Irati,f,35-39,816.0,2.0,4
 Irati,f,40-44,719.0,7.0,4
 Irati,f,45-49,682.0,5.0,4
+Irati,f,5-9,244.0,0.0,4
 Irati,f,50-54,542.0,14.0,4
 Irati,f,55-59,488.0,17.0,4
-Irati,f,5:9,244.0,0.0,4
 Irati,f,60-64,330.0,18.0,4
 Irati,f,65-69,266.0,20.0,4
 Irati,f,70-74,130.0,5.0,4
@@ -297,9 +297,9 @@ Irati,m,30-34,830.0,3.0,4
 Irati,m,35-39,774.0,8.0,4
 Irati,m,40-44,676.0,7.0,4
 Irati,m,45-49,578.0,9.0,4
+Irati,m,5-9,202.0,0.0,4
 Irati,m,50-54,547.0,9.0,4
 Irati,m,55-59,441.0,12.0,4
-Irati,m,5:9,202.0,0.0,4
 Irati,m,60-64,355.0,18.0,4
 Irati,m,65-69,229.0,16.0,4
 Irati,m,70-74,153.0,24.0,4
@@ -314,9 +314,9 @@ Ivaiporã,f,30-34,455.0,2.0,22
 Ivaiporã,f,35-39,486.0,3.0,22
 Ivaiporã,f,40-44,463.0,3.0,22
 Ivaiporã,f,45-49,427.0,2.0,22
+Ivaiporã,f,5-9,105.0,0.0,22
 Ivaiporã,f,50-54,394.0,5.0,22
 Ivaiporã,f,55-59,347.0,10.0,22
-Ivaiporã,f,5:9,105.0,0.0,22
 Ivaiporã,f,60-64,292.0,9.0,22
 Ivaiporã,f,65-69,203.0,11.0,22
 Ivaiporã,f,70-74,141.0,7.0,22
@@ -331,9 +331,9 @@ Ivaiporã,m,30-34,431.0,2.0,22
 Ivaiporã,m,35-39,423.0,2.0,22
 Ivaiporã,m,40-44,438.0,2.0,22
 Ivaiporã,m,45-49,364.0,2.0,22
+Ivaiporã,m,5-9,99.0,0.0,22
 Ivaiporã,m,50-54,347.0,16.0,22
 Ivaiporã,m,55-59,297.0,11.0,22
-Ivaiporã,m,5:9,99.0,0.0,22
 Ivaiporã,m,60-64,252.0,12.0,22
 Ivaiporã,m,65-69,226.0,15.0,22
 Ivaiporã,m,70-74,147.0,15.0,22
@@ -348,9 +348,9 @@ Jacarezinho,f,30-34,1525.0,6.0,19
 Jacarezinho,f,35-39,1477.0,9.0,19
 Jacarezinho,f,40-44,1424.0,13.0,19
 Jacarezinho,f,45-49,1247.0,12.0,19
+Jacarezinho,f,5-9,315.0,0.0,19
 Jacarezinho,f,50-54,1104.0,27.0,19
 Jacarezinho,f,55-59,961.0,29.0,19
-Jacarezinho,f,5:9,315.0,0.0,19
 Jacarezinho,f,60-64,787.0,47.0,19
 Jacarezinho,f,65-69,560.0,34.0,19
 Jacarezinho,f,70-74,359.0,37.0,19
@@ -365,9 +365,9 @@ Jacarezinho,m,30-34,1392.0,4.0,19
 Jacarezinho,m,35-39,1388.0,10.0,19
 Jacarezinho,m,40-44,1183.0,15.0,19
 Jacarezinho,m,45-49,1040.0,17.0,19
+Jacarezinho,m,5-9,350.0,0.0,19
 Jacarezinho,m,50-54,1022.0,34.0,19
 Jacarezinho,m,55-59,896.0,37.0,19
-Jacarezinho,m,5:9,350.0,0.0,19
 Jacarezinho,m,60-64,672.0,47.0,19
 Jacarezinho,m,65-69,522.0,69.0,19
 Jacarezinho,m,70-74,327.0,47.0,19
@@ -382,9 +382,9 @@ Londrina,f,30-34,5429.0,11.0,17
 Londrina,f,35-39,5438.0,25.0,17
 Londrina,f,40-44,5136.0,24.0,17
 Londrina,f,45-49,4323.0,34.0,17
+Londrina,f,5-9,586.0,0.0,17
 Londrina,f,50-54,4100.0,55.0,17
 Londrina,f,55-59,3440.0,71.0,17
-Londrina,f,5:9,586.0,0.0,17
 Londrina,f,60-64,2555.0,101.0,17
 Londrina,f,65-69,1875.0,127.0,17
 Londrina,f,70-74,1275.0,137.0,17
@@ -399,9 +399,9 @@ Londrina,m,30-34,4981.0,29.0,17
 Londrina,m,35-39,4743.0,23.0,17
 Londrina,m,40-44,4381.0,31.0,17
 Londrina,m,45-49,3814.0,68.0,17
+Londrina,m,5-9,607.0,0.0,17
 Londrina,m,50-54,3445.0,82.0,17
 Londrina,m,55-59,3001.0,129.0,17
-Londrina,m,5:9,607.0,0.0,17
 Londrina,m,60-64,2203.0,149.0,17
 Londrina,m,65-69,1590.0,192.0,17
 Londrina,m,70-74,1152.0,189.0,17
@@ -416,9 +416,9 @@ Maringá,f,30-34,5329.0,14.0,15
 Maringá,f,35-39,5090.0,14.0,15
 Maringá,f,40-44,4472.0,22.0,15
 Maringá,f,45-49,4074.0,34.0,15
+Maringá,f,5-9,651.0,0.0,15
 Maringá,f,50-54,3967.0,64.0,15
 Maringá,f,55-59,3087.0,76.0,15
-Maringá,f,5:9,651.0,0.0,15
 Maringá,f,60-64,2246.0,101.0,15
 Maringá,f,65-69,1588.0,126.0,15
 Maringá,f,70-74,1055.0,119.0,15
@@ -433,9 +433,9 @@ Maringá,m,30-34,4715.0,23.0,15
 Maringá,m,35-39,4488.0,36.0,15
 Maringá,m,40-44,3833.0,56.0,15
 Maringá,m,45-49,3382.0,63.0,15
+Maringá,m,5-9,675.0,0.0,15
 Maringá,m,50-54,3192.0,88.0,15
 Maringá,m,55-59,2781.0,113.0,15
-Maringá,m,5:9,675.0,0.0,15
 Maringá,m,60-64,1941.0,126.0,15
 Maringá,m,65-69,1397.0,156.0,15
 Maringá,m,70-74,999.0,171.0,15
@@ -450,9 +450,9 @@ Metropolitana Curitiba,f,30-34,19032.0,49.0,2
 Metropolitana Curitiba,f,35-39,19481.0,67.0,2
 Metropolitana Curitiba,f,40-44,18326.0,123.0,2
 Metropolitana Curitiba,f,45-49,15932.0,177.0,2
+Metropolitana Curitiba,f,5-9,2062.0,1.0,2
 Metropolitana Curitiba,f,50-54,14016.0,273.0,2
 Metropolitana Curitiba,f,55-59,11686.0,356.0,2
-Metropolitana Curitiba,f,5:9,2062.0,1.0,2
 Metropolitana Curitiba,f,60-64,8401.0,450.0,2
 Metropolitana Curitiba,f,65-69,5743.0,596.0,2
 Metropolitana Curitiba,f,70-74,3727.0,547.0,2
@@ -467,9 +467,9 @@ Metropolitana Curitiba,m,30-34,16757.0,61.0,2
 Metropolitana Curitiba,m,35-39,16856.0,173.0,2
 Metropolitana Curitiba,m,40-44,15177.0,205.0,2
 Metropolitana Curitiba,m,45-49,13423.0,308.0,2
+Metropolitana Curitiba,m,5-9,2131.0,2.0,2
 Metropolitana Curitiba,m,50-54,11998.0,393.0,2
 Metropolitana Curitiba,m,55-59,9707.0,544.0,2
-Metropolitana Curitiba,m,5:9,2131.0,2.0,2
 Metropolitana Curitiba,m,60-64,7085.0,679.0,2
 Metropolitana Curitiba,m,65-69,5223.0,739.0,2
 Metropolitana Curitiba,m,70-74,3421.0,682.0,2
@@ -484,9 +484,9 @@ Paranaguá,f,30-34,1924.0,5.0,1
 Paranaguá,f,35-39,2012.0,9.0,1
 Paranaguá,f,40-44,1919.0,20.0,1
 Paranaguá,f,45-49,1615.0,12.0,1
+Paranaguá,f,5-9,240.0,0.0,1
 Paranaguá,f,50-54,1547.0,19.0,1
 Paranaguá,f,55-59,1347.0,42.0,1
-Paranaguá,f,5:9,240.0,0.0,1
 Paranaguá,f,60-64,971.0,54.0,1
 Paranaguá,f,65-69,686.0,66.0,1
 Paranaguá,f,70-74,437.0,49.0,1
@@ -501,9 +501,9 @@ Paranaguá,m,30-34,1754.0,10.0,1
 Paranaguá,m,35-39,1849.0,16.0,1
 Paranaguá,m,40-44,1701.0,23.0,1
 Paranaguá,m,45-49,1514.0,34.0,1
+Paranaguá,m,5-9,219.0,0.0,1
 Paranaguá,m,50-54,1276.0,36.0,1
 Paranaguá,m,55-59,1198.0,42.0,1
-Paranaguá,m,5:9,219.0,0.0,1
 Paranaguá,m,60-64,809.0,75.0,1
 Paranaguá,m,65-69,670.0,64.0,1
 Paranaguá,m,70-74,431.0,60.0,1
@@ -518,9 +518,9 @@ Paranavaí,f,30-34,1314.0,5.0,14
 Paranavaí,f,35-39,1275.0,2.0,14
 Paranavaí,f,40-44,1159.0,13.0,14
 Paranavaí,f,45-49,1013.0,8.0,14
+Paranavaí,f,5-9,251.0,0.0,14
 Paranavaí,f,50-54,987.0,18.0,14
 Paranavaí,f,55-59,838.0,26.0,14
-Paranavaí,f,5:9,251.0,0.0,14
 Paranavaí,f,60-64,591.0,23.0,14
 Paranavaí,f,65-69,356.0,21.0,14
 Paranavaí,f,70-74,259.0,21.0,14
@@ -535,9 +535,9 @@ Paranavaí,m,30-34,1113.0,3.0,14
 Paranavaí,m,35-39,1111.0,7.0,14
 Paranavaí,m,40-44,956.0,13.0,14
 Paranavaí,m,45-49,898.0,19.0,14
+Paranavaí,m,5-9,263.0,0.0,14
 Paranavaí,m,50-54,793.0,16.0,14
 Paranavaí,m,55-59,750.0,26.0,14
-Paranavaí,m,5:9,263.0,0.0,14
 Paranavaí,m,60-64,507.0,34.0,14
 Paranavaí,m,65-69,371.0,28.0,14
 Paranavaí,m,70-74,207.0,32.0,14
@@ -552,9 +552,9 @@ Pato Branco,f,30-34,1721.0,1.0,7
 Pato Branco,f,35-39,1647.0,11.0,7
 Pato Branco,f,40-44,1378.0,9.0,7
 Pato Branco,f,45-49,1226.0,15.0,7
+Pato Branco,f,5-9,306.0,0.0,7
 Pato Branco,f,50-54,1126.0,19.0,7
 Pato Branco,f,55-59,947.0,16.0,7
-Pato Branco,f,5:9,306.0,0.0,7
 Pato Branco,f,60-64,768.0,35.0,7
 Pato Branco,f,65-69,500.0,27.0,7
 Pato Branco,f,70-74,315.0,36.0,7
@@ -569,9 +569,9 @@ Pato Branco,m,30-34,1554.0,7.0,7
 Pato Branco,m,35-39,1548.0,9.0,7
 Pato Branco,m,40-44,1285.0,10.0,7
 Pato Branco,m,45-49,1145.0,32.0,7
+Pato Branco,m,5-9,292.0,0.0,7
 Pato Branco,m,50-54,983.0,33.0,7
 Pato Branco,m,55-59,907.0,54.0,7
-Pato Branco,m,5:9,292.0,0.0,7
 Pato Branco,m,60-64,682.0,54.0,7
 Pato Branco,m,65-69,501.0,54.0,7
 Pato Branco,m,70-74,348.0,40.0,7
@@ -586,9 +586,9 @@ Ponta Grossa,f,30-34,3817.0,11.0,3
 Ponta Grossa,f,35-39,3838.0,19.0,3
 Ponta Grossa,f,40-44,3445.0,24.0,3
 Ponta Grossa,f,45-49,2933.0,31.0,3
+Ponta Grossa,f,5-9,407.0,0.0,3
 Ponta Grossa,f,50-54,2541.0,56.0,3
 Ponta Grossa,f,55-59,2159.0,70.0,3
-Ponta Grossa,f,5:9,407.0,0.0,3
 Ponta Grossa,f,60-64,1575.0,72.0,3
 Ponta Grossa,f,65-69,1125.0,82.0,3
 Ponta Grossa,f,70-74,711.0,94.0,3
@@ -603,9 +603,9 @@ Ponta Grossa,m,30-34,3643.0,16.0,3
 Ponta Grossa,m,35-39,3666.0,20.0,3
 Ponta Grossa,m,40-44,3361.0,29.0,3
 Ponta Grossa,m,45-49,2787.0,55.0,3
+Ponta Grossa,m,5-9,398.0,0.0,3
 Ponta Grossa,m,50-54,2327.0,55.0,3
 Ponta Grossa,m,55-59,1925.0,102.0,3
-Ponta Grossa,m,5:9,398.0,0.0,3
 Ponta Grossa,m,60-64,1419.0,124.0,3
 Ponta Grossa,m,65-69,1088.0,142.0,3
 Ponta Grossa,m,70-74,648.0,99.0,3
@@ -620,9 +620,9 @@ Telêmaco Borba,f,30-34,1170.0,5.0,21
 Telêmaco Borba,f,35-39,1071.0,7.0,21
 Telêmaco Borba,f,40-44,990.0,9.0,21
 Telêmaco Borba,f,45-49,842.0,16.0,21
+Telêmaco Borba,f,5-9,377.0,0.0,21
 Telêmaco Borba,f,50-54,768.0,15.0,21
 Telêmaco Borba,f,55-59,644.0,17.0,21
-Telêmaco Borba,f,5:9,377.0,0.0,21
 Telêmaco Borba,f,60-64,444.0,26.0,21
 Telêmaco Borba,f,65-69,295.0,20.0,21
 Telêmaco Borba,f,70-74,235.0,27.0,21
@@ -637,9 +637,9 @@ Telêmaco Borba,m,30-34,1613.0,6.0,21
 Telêmaco Borba,m,35-39,1731.0,7.0,21
 Telêmaco Borba,m,40-44,1482.0,9.0,21
 Telêmaco Borba,m,45-49,1183.0,17.0,21
+Telêmaco Borba,m,5-9,375.0,0.0,21
 Telêmaco Borba,m,50-54,974.0,28.0,21
 Telêmaco Borba,m,55-59,813.0,32.0,21
-Telêmaco Borba,m,5:9,375.0,0.0,21
 Telêmaco Borba,m,60-64,488.0,35.0,21
 Telêmaco Borba,m,65-69,319.0,41.0,21
 Telêmaco Borba,m,70-74,230.0,37.0,21
@@ -654,9 +654,9 @@ Toledo,f,30-34,2661.0,7.0,20
 Toledo,f,35-39,2699.0,4.0,20
 Toledo,f,40-44,2375.0,8.0,20
 Toledo,f,45-49,2217.0,13.0,20
+Toledo,f,5-9,395.0,0.0,20
 Toledo,f,50-54,1893.0,22.0,20
 Toledo,f,55-59,1609.0,31.0,20
-Toledo,f,5:9,395.0,0.0,20
 Toledo,f,60-64,1160.0,35.0,20
 Toledo,f,65-69,804.0,50.0,20
 Toledo,f,70-74,549.0,49.0,20
@@ -671,9 +671,9 @@ Toledo,m,30-34,2441.0,14.0,20
 Toledo,m,35-39,2435.0,11.0,20
 Toledo,m,40-44,2137.0,21.0,20
 Toledo,m,45-49,1959.0,25.0,20
+Toledo,m,5-9,390.0,0.0,20
 Toledo,m,50-54,1806.0,36.0,20
 Toledo,m,55-59,1514.0,44.0,20
-Toledo,m,5:9,390.0,0.0,20
 Toledo,m,60-64,979.0,52.0,20
 Toledo,m,65-69,690.0,56.0,20
 Toledo,m,70-74,518.0,75.0,20
@@ -688,9 +688,9 @@ Umuarama,f,30-34,1479.0,3.0,12
 Umuarama,f,35-39,1463.0,2.0,12
 Umuarama,f,40-44,1326.0,5.0,12
 Umuarama,f,45-49,1230.0,11.0,12
+Umuarama,f,5-9,251.0,0.0,12
 Umuarama,f,50-54,1195.0,16.0,12
 Umuarama,f,55-59,1002.0,14.0,12
-Umuarama,f,5:9,251.0,0.0,12
 Umuarama,f,60-64,753.0,32.0,12
 Umuarama,f,65-69,499.0,24.0,12
 Umuarama,f,70-74,358.0,15.0,12
@@ -705,9 +705,9 @@ Umuarama,m,30-34,1334.0,5.0,12
 Umuarama,m,35-39,1336.0,6.0,12
 Umuarama,m,40-44,1141.0,5.0,12
 Umuarama,m,45-49,1107.0,9.0,12
+Umuarama,m,5-9,294.0,0.0,12
 Umuarama,m,50-54,1072.0,17.0,12
 Umuarama,m,55-59,893.0,23.0,12
-Umuarama,m,5:9,294.0,0.0,12
 Umuarama,m,60-64,648.0,24.0,12
 Umuarama,m,65-69,457.0,21.0,12
 Umuarama,m,70-74,321.0,38.0,12
@@ -722,9 +722,9 @@ União da Vitória,f,30-34,674.0,1.0,6
 União da Vitória,f,35-39,669.0,2.0,6
 União da Vitória,f,40-44,575.0,2.0,6
 União da Vitória,f,45-49,539.0,6.0,6
+União da Vitória,f,5-9,74.0,0.0,6
 União da Vitória,f,50-54,467.0,6.0,6
 União da Vitória,f,55-59,402.0,9.0,6
-União da Vitória,f,5:9,74.0,0.0,6
 União da Vitória,f,60-64,292.0,11.0,6
 União da Vitória,f,65-69,189.0,10.0,6
 União da Vitória,f,70-74,105.0,9.0,6
@@ -739,9 +739,9 @@ União da Vitória,m,30-34,615.0,2.0,6
 União da Vitória,m,35-39,639.0,2.0,6
 União da Vitória,m,40-44,545.0,3.0,6
 União da Vitória,m,45-49,506.0,14.0,6
+União da Vitória,m,5-9,79.0,0.0,6
 União da Vitória,m,50-54,430.0,18.0,6
 União da Vitória,m,55-59,377.0,13.0,6
-União da Vitória,m,5:9,79.0,0.0,6
 União da Vitória,m,60-64,254.0,19.0,6
 União da Vitória,m,65-69,169.0,16.0,6
 União da Vitória,m,70-74,89.0,12.0,6
