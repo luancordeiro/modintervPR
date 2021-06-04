@@ -1,341 +1,375 @@
-idade,localidade,perc,sexo
-0-4,Bairro Novo,3.86,m
-5-9,Bairro Novo,4.08,m
-10-14,Bairro Novo,4.65,m
-15-19,Bairro Novo,4.61,m
-20-24,Bairro Novo,4.63,m
-25-29,Bairro Novo,4.63,m
-30-34,Bairro Novo,4.32,m
-35-39,Bairro Novo,4.08,m
-40-44,Bairro Novo,3.73,m
-45-49,Bairro Novo,3.0,m
-50-54,Bairro Novo,2.36,m
-55-59,Bairro Novo,1.87,m
-60-64,Bairro Novo,1.21,m
-65-69,Bairro Novo,0.73,m
-70-74,Bairro Novo,0.48,m
-75-79,Bairro Novo,0.29,m
-80+,Bairro Novo,0.22,m
-0-4,Santa Felicidade,3.15,m
-5-9,Santa Felicidade,3.32,m
-10-14,Santa Felicidade,3.75,m
-15-19,Santa Felicidade,3.83,m
-20-24,Santa Felicidade,3.94,m
-25-29,Santa Felicidade,4.36,m
-30-34,Santa Felicidade,4.24,m
-35-39,Santa Felicidade,4.08,m
-40-44,Santa Felicidade,3.88,m
-45-49,Santa Felicidade,3.44,m
-50-54,Santa Felicidade,2.91,m
-55-59,Santa Felicidade,2.31,m
-60-64,Santa Felicidade,1.71,m
-65-69,Santa Felicidade,1.16,m
-70-74,Santa Felicidade,0.79,m
-75-79,Santa Felicidade,0.48,m
-80+,Santa Felicidade,0.46,m
-0-4,Boa Vista,2.95,m
-5-9,Boa Vista,3.1,m
-10-14,Boa Vista,3.67,m
-15-19,Boa Vista,3.82,m
-20-24,Boa Vista,4.34,m
-25-29,Boa Vista,4.46,m
-30-34,Boa Vista,4.21,m
-35-39,Boa Vista,3.7,m
-40-44,Boa Vista,3.55,m
-45-49,Boa Vista,3.37,m
-50-54,Boa Vista,2.93,m
-55-59,Boa Vista,2.29,m
-60-64,Boa Vista,1.81,m
-65-69,Boa Vista,1.23,m
-70-74,Boa Vista,0.91,m
-75-79,Boa Vista,0.61,m
-80+,Boa Vista,0.52,m
-0-4,Boqueirão,3.21,m
-5-9,Boqueirão,3.49,m
-10-14,Boqueirão,3.95,m
-15-19,Boqueirão,4.17,m
-20-24,Boqueirão,4.38,m
-25-29,Boqueirão,4.46,m
-30-34,Boqueirão,4.27,m
-35-39,Boqueirão,3.86,m
-40-44,Boqueirão,3.66,m
-45-49,Boqueirão,3.29,m
-50-54,Boqueirão,2.74,m
-55-59,Boqueirão,2.16,m
-60-64,Boqueirão,1.63,m
-65-69,Boqueirão,1.1,m
-70-74,Boqueirão,0.78,m
-75-79,Boqueirão,0.47,m
-80+,Boqueirão,0.42,m
-0-4,CIC,3.59,m
-5-9,CIC,3.99,m
-10-14,CIC,4.54,m
-15-19,CIC,4.51,m
-20-24,CIC,4.7,m
-25-29,CIC,4.83,m
-30-34,CIC,4.44,m
-35-39,CIC,3.93,m
-40-44,CIC,3.58,m
-45-49,CIC,2.95,m
-50-54,CIC,2.46,m
-55-59,CIC,1.93,m
-60-64,CIC,1.26,m
-65-69,CIC,0.79,m
-70-74,CIC,0.52,m
-75-79,CIC,0.3,m
-80+,CIC,0.25,m
-0-4,Matriz,1.89,m
-5-9,Matriz,1.84,m
-10-14,Matriz,2.06,m
-15-19,Matriz,3.14,m
-20-24,Matriz,5.01,m
-25-29,Matriz,5.25,m
-30-34,Matriz,4.22,m
-35-39,Matriz,3.26,m
-40-44,Matriz,2.91,m
-45-49,Matriz,3.08,m
-50-54,Matriz,3.0,m
-55-59,Matriz,2.76,m
-60-64,Matriz,2.19,m
-65-69,Matriz,1.56,m
-70-74,Matriz,1.2,m
-75-79,Matriz,0.93,m
-80+,Matriz,1.1,m
-0-4,Portão,2.67,m
-5-9,Portão,2.61,m
-10-14,Portão,2.97,m
-15-19,Portão,3.51,m
-20-24,Portão,4.26,m
-25-29,Portão,4.77,m
-30-34,Portão,4.34,m
-35-39,Portão,3.42,m
-40-44,Portão,3.23,m
-45-49,Portão,3.31,m
-50-54,Portão,3.09,m
-55-59,Portão,2.58,m
-60-64,Portão,1.97,m
-65-69,Portão,1.36,m
-70-74,Portão,1.02,m
-75-79,Portão,0.7,m
-80+,Portão,0.68,m
-0-4,Tatuquara,4.36,m
-5-9,Tatuquara,4.7,m
-10-14,Tatuquara,5.67,m
-15-19,Tatuquara,4.87,m
-20-24,Tatuquara,4.36,m
-25-29,Tatuquara,4.64,m
-30-34,Tatuquara,4.69,m
-35-39,Tatuquara,4.34,m
-40-44,Tatuquara,3.64,m
-45-49,Tatuquara,2.76,m
-50-54,Tatuquara,2.0,m
-55-59,Tatuquara,1.31,m
-60-64,Tatuquara,0.88,m
-65-69,Tatuquara,0.54,m
-70-74,Tatuquara,0.33,m
-75-79,Tatuquara,0.23,m
-80+,Tatuquara,0.16,m
-0-4,Pinheirinho,3.21,m
-5-9,Pinheirinho,3.31,m
-10-14,Pinheirinho,3.87,m
-15-19,Pinheirinho,4.01,m
-20-24,Pinheirinho,4.57,m
-25-29,Pinheirinho,4.59,m
-30-34,Pinheirinho,4.45,m
-35-39,Pinheirinho,3.81,m
-40-44,Pinheirinho,3.72,m
-45-49,Pinheirinho,3.28,m
-50-54,Pinheirinho,2.69,m
-55-59,Pinheirinho,2.21,m
-60-64,Pinheirinho,1.57,m
-65-69,Pinheirinho,1.09,m
-70-74,Pinheirinho,0.8,m
-75-79,Pinheirinho,0.52,m
-80+,Pinheirinho,0.45,m
-0-4,Cajuru,3.32,m
-5-9,Cajuru,3.4,m
-10-14,Cajuru,4.03,m
-15-19,Cajuru,4.19,m
-20-24,Cajuru,4.55,m
-25-29,Cajuru,4.38,m
-30-34,Cajuru,4.1,m
-35-39,Cajuru,3.77,m
-40-44,Cajuru,3.56,m
-45-49,Cajuru,3.24,m
-50-54,Cajuru,2.69,m
-55-59,Cajuru,2.22,m
-60-64,Cajuru,1.67,m
-65-69,Cajuru,1.15,m
-70-74,Cajuru,0.81,m
-75-79,Cajuru,0.53,m
-80+,Cajuru,0.46,m
-0-4,Bairro Novo,3.63,f
-5-9,Bairro Novo,3.99,f
-10-14,Bairro Novo,4.57,f
-15-19,Bairro Novo,4.7,f
-20-24,Bairro Novo,4.78,f
-25-29,Bairro Novo,4.71,f
-30-34,Bairro Novo,4.5,f
-35-39,Bairro Novo,4.23,f
-40-44,Bairro Novo,3.94,f
-45-49,Bairro Novo,3.39,f
-50-54,Bairro Novo,2.82,f
-55-59,Bairro Novo,2.15,f
-60-64,Bairro Novo,1.44,f
-65-69,Bairro Novo,0.95,f
-70-74,Bairro Novo,0.64,f
-75-79,Bairro Novo,0.39,f
-80+,Bairro Novo,0.39,f
-0-4,Santa Felicidade,3.06,f
-5-9,Santa Felicidade,3.15,f
-10-14,Santa Felicidade,3.56,f
-15-19,Santa Felicidade,3.71,f
-20-24,Santa Felicidade,4.11,f
-25-29,Santa Felicidade,4.6,f
-30-34,Santa Felicidade,4.76,f
-35-39,Santa Felicidade,4.51,f
-40-44,Santa Felicidade,4.27,f
-45-49,Santa Felicidade,3.9,f
-50-54,Santa Felicidade,3.33,f
-55-59,Santa Felicidade,2.8,f
-60-64,Santa Felicidade,2.12,f
-65-69,Santa Felicidade,1.5,f
-70-74,Santa Felicidade,1.08,f
-75-79,Santa Felicidade,0.8,f
-80+,Santa Felicidade,0.9,f
-0-4,Boa Vista,2.86,f
-5-9,Boa Vista,3.0,f
-10-14,Boa Vista,3.49,f
-15-19,Boa Vista,3.69,f
-20-24,Boa Vista,4.3,f
-25-29,Boa Vista,4.68,f
-30-34,Boa Vista,4.53,f
-35-39,Boa Vista,4.12,f
-40-44,Boa Vista,4.08,f
-45-49,Boa Vista,4.02,f
-50-54,Boa Vista,3.55,f
-55-59,Boa Vista,2.96,f
-60-64,Boa Vista,2.31,f
-65-69,Boa Vista,1.65,f
-70-74,Boa Vista,1.29,f
-75-79,Boa Vista,0.89,f
-80+,Boa Vista,1.08,f
-0-4,Boqueirão,3.16,f
-5-9,Boqueirão,3.31,f
-10-14,Boqueirão,3.82,f
-15-19,Boqueirão,4.05,f
-20-24,Boqueirão,4.37,f
-25-29,Boqueirão,4.72,f
-30-34,Boqueirão,4.59,f
-35-39,Boqueirão,4.22,f
-40-44,Boqueirão,3.99,f
-45-49,Boqueirão,3.79,f
-50-54,Boqueirão,3.24,f
-55-59,Boqueirão,2.65,f
-60-64,Boqueirão,2.09,f
-65-69,Boqueirão,1.43,f
-70-74,Boqueirão,1.06,f
-75-79,Boqueirão,0.72,f
-80+,Boqueirão,0.79,f
-0-4,CIC,3.57,f
-5-9,CIC,3.68,f
-10-14,CIC,4.44,f
-15-19,CIC,4.46,f
-20-24,CIC,4.72,f
-25-29,CIC,4.85,f
-30-34,CIC,4.55,f
-35-39,CIC,4.16,f
-40-44,CIC,3.88,f
-45-49,CIC,3.56,f
-50-54,CIC,2.98,f
-55-59,CIC,2.22,f
-60-64,CIC,1.55,f
-65-69,CIC,1.07,f
-70-74,CIC,0.75,f
-75-79,CIC,0.51,f
-80+,CIC,0.47,f
-0-4,Matriz,1.92,f
-5-9,Matriz,1.75,f
-10-14,Matriz,2.01,f
-15-19,Matriz,3.28,f
-20-24,Matriz,5.31,f
-25-29,Matriz,5.43,f
-30-34,Matriz,4.53,f
-35-39,Matriz,3.61,f
-40-44,Matriz,3.57,f
-45-49,Matriz,4.09,f
-50-54,Matriz,4.01,f
-55-59,Matriz,3.64,f
-60-64,Matriz,2.98,f
-65-69,Matriz,2.25,f
-70-74,Matriz,1.97,f
-75-79,Matriz,1.69,f
-80+,Matriz,2.58,f
-0-4,Portão,2.59,f
-5-9,Portão,2.53,f
-10-14,Portão,2.95,f
-15-19,Portão,3.49,f
-20-24,Portão,4.53,f
-25-29,Portão,4.94,f
-30-34,Portão,4.59,f
-35-39,Portão,3.97,f
-40-44,Portão,3.84,f
-45-49,Portão,4.17,f
-50-54,Portão,3.92,f
-55-59,Portão,3.31,f
-60-64,Portão,2.54,f
-65-69,Portão,1.87,f
-70-74,Portão,1.52,f
-75-79,Portão,1.22,f
-80+,Portão,1.52,f
-0-4,Tatuquara,4.37,f
-5-9,Tatuquara,4.6,f
-10-14,Tatuquara,5.25,f
-15-19,Tatuquara,4.94,f
-20-24,Tatuquara,4.53,f
-25-29,Tatuquara,4.8,f
-30-34,Tatuquara,4.77,f
-35-39,Tatuquara,4.43,f
-40-44,Tatuquara,3.67,f
-45-49,Tatuquara,2.96,f
-50-54,Tatuquara,2.19,f
-55-59,Tatuquara,1.47,f
-60-64,Tatuquara,0.95,f
-65-69,Tatuquara,0.63,f
-70-74,Tatuquara,0.4,f
-75-79,Tatuquara,0.26,f
-80+,Tatuquara,0.28,f
-0-4,Pinheirinho,3.08,f
-5-9,Pinheirinho,3.04,f
-10-14,Pinheirinho,3.7,f
-15-19,Pinheirinho,4.06,f
-20-24,Pinheirinho,4.55,f
-25-29,Pinheirinho,4.9,f
-30-34,Pinheirinho,4.57,f
-35-39,Pinheirinho,4.05,f
-40-44,Pinheirinho,3.99,f
-45-49,Pinheirinho,3.78,f
-50-54,Pinheirinho,3.32,f
-55-59,Pinheirinho,2.55,f
-60-64,Pinheirinho,2.02,f
-65-69,Pinheirinho,1.44,f
-70-74,Pinheirinho,1.13,f
-75-79,Pinheirinho,0.85,f
-80+,Pinheirinho,0.83,f
-0-4,Cajuru,3.2,f
-5-9,Cajuru,3.36,f
-10-14,Cajuru,3.9,f
-15-19,Cajuru,4.07,f
-20-24,Cajuru,4.39,f
-25-29,Cajuru,4.56,f
-30-34,Cajuru,4.45,f
-35-39,Cajuru,4.06,f
-40-44,Cajuru,3.9,f
-45-49,Cajuru,3.75,f
-50-54,Cajuru,3.26,f
-55-59,Cajuru,2.63,f
-60-64,Cajuru,2.07,f
-65-69,Cajuru,1.5,f
-70-74,Cajuru,1.09,f
-75-79,Cajuru,0.85,f
-80+,Cajuru,0.89,f
+localidade,idade,perc,sexo
+Curitiba,0-4,3.05,m
+Curitiba,5-9,3.04,m
+Curitiba,10-14,3.13,m
+Curitiba,15-19,3.5,m
+Curitiba,20-24,3.85,m
+Curitiba,25-29,3.73,m
+Curitiba,30-34,3.81,m
+Curitiba,35-39,3.93,m
+Curitiba,40-44,3.74,m
+Curitiba,45-49,3.28,m
+Curitiba,50-54,2.96,m
+Curitiba,55-59,2.62,m
+Curitiba,60-64,2.19,m
+Curitiba,65-69,1.75,m
+Curitiba,70-74,1.27,m
+Curitiba,75-79,0.8,m
+Curitiba,80+,0.82,m
+DSBN,0-4,3.86,m
+DSBN,5-9,4.08,m
+DSBN,10-14,4.65,m
+DSBN,15-19,4.61,m
+DSBN,20-24,4.63,m
+DSBN,25-29,4.63,m
+DSBN,30-34,4.32,m
+DSBN,35-39,4.08,m
+DSBN,40-44,3.73,m
+DSBN,45-49,3.0,m
+DSBN,50-54,2.36,m
+DSBN,55-59,1.87,m
+DSBN,60-64,1.21,m
+DSBN,65-69,0.73,m
+DSBN,70-74,0.48,m
+DSBN,75-79,0.29,m
+DSBN,80+,0.22,m
+DSSF,0-4,3.15,m
+DSSF,5-9,3.32,m
+DSSF,10-14,3.75,m
+DSSF,15-19,3.83,m
+DSSF,20-24,3.94,m
+DSSF,25-29,4.36,m
+DSSF,30-34,4.24,m
+DSSF,35-39,4.08,m
+DSSF,40-44,3.88,m
+DSSF,45-49,3.44,m
+DSSF,50-54,2.91,m
+DSSF,55-59,2.31,m
+DSSF,60-64,1.71,m
+DSSF,65-69,1.16,m
+DSSF,70-74,0.79,m
+DSSF,75-79,0.48,m
+DSSF,80+,0.46,m
+DSBV,0-4,2.95,m
+DSBV,5-9,3.1,m
+DSBV,10-14,3.67,m
+DSBV,15-19,3.82,m
+DSBV,20-24,4.34,m
+DSBV,25-29,4.46,m
+DSBV,30-34,4.21,m
+DSBV,35-39,3.7,m
+DSBV,40-44,3.55,m
+DSBV,45-49,3.37,m
+DSBV,50-54,2.93,m
+DSBV,55-59,2.29,m
+DSBV,60-64,1.81,m
+DSBV,65-69,1.23,m
+DSBV,70-74,0.91,m
+DSBV,75-79,0.61,m
+DSBV,80+,0.52,m
+DSBQ,0-4,3.21,m
+DSBQ,5-9,3.49,m
+DSBQ,10-14,3.95,m
+DSBQ,15-19,4.17,m
+DSBQ,20-24,4.38,m
+DSBQ,25-29,4.46,m
+DSBQ,30-34,4.27,m
+DSBQ,35-39,3.86,m
+DSBQ,40-44,3.66,m
+DSBQ,45-49,3.29,m
+DSBQ,50-54,2.74,m
+DSBQ,55-59,2.16,m
+DSBQ,60-64,1.63,m
+DSBQ,65-69,1.1,m
+DSBQ,70-74,0.78,m
+DSBQ,75-79,0.47,m
+DSBQ,80+,0.42,m
+DSCIC,0-4,3.59,m
+DSCIC,5-9,3.99,m
+DSCIC,10-14,4.54,m
+DSCIC,15-19,4.51,m
+DSCIC,20-24,4.7,m
+DSCIC,25-29,4.83,m
+DSCIC,30-34,4.44,m
+DSCIC,35-39,3.93,m
+DSCIC,40-44,3.58,m
+DSCIC,45-49,2.95,m
+DSCIC,50-54,2.46,m
+DSCIC,55-59,1.93,m
+DSCIC,60-64,1.26,m
+DSCIC,65-69,0.79,m
+DSCIC,70-74,0.52,m
+DSCIC,75-79,0.3,m
+DSCIC,80+,0.25,m
+DSMZ,0-4,1.89,m
+DSMZ,5-9,1.84,m
+DSMZ,10-14,2.06,m
+DSMZ,15-19,3.14,m
+DSMZ,20-24,5.01,m
+DSMZ,25-29,5.25,m
+DSMZ,30-34,4.22,m
+DSMZ,35-39,3.26,m
+DSMZ,40-44,2.91,m
+DSMZ,45-49,3.08,m
+DSMZ,50-54,3.0,m
+DSMZ,55-59,2.76,m
+DSMZ,60-64,2.19,m
+DSMZ,65-69,1.56,m
+DSMZ,70-74,1.2,m
+DSMZ,75-79,0.93,m
+DSMZ,80+,1.1,m
+DSPR,0-4,2.67,m
+DSPR,5-9,2.61,m
+DSPR,10-14,2.97,m
+DSPR,15-19,3.51,m
+DSPR,20-24,4.26,m
+DSPR,25-29,4.77,m
+DSPR,30-34,4.34,m
+DSPR,35-39,3.42,m
+DSPR,40-44,3.23,m
+DSPR,45-49,3.31,m
+DSPR,50-54,3.09,m
+DSPR,55-59,2.58,m
+DSPR,60-64,1.97,m
+DSPR,65-69,1.36,m
+DSPR,70-74,1.02,m
+DSPR,75-79,0.7,m
+DSPR,80+,0.68,m
+DSTQ,0-4,4.36,m
+DSTQ,5-9,4.7,m
+DSTQ,10-14,5.67,m
+DSTQ,15-19,4.87,m
+DSTQ,20-24,4.36,m
+DSTQ,25-29,4.64,m
+DSTQ,30-34,4.69,m
+DSTQ,35-39,4.34,m
+DSTQ,40-44,3.64,m
+DSTQ,45-49,2.76,m
+DSTQ,50-54,2.0,m
+DSTQ,55-59,1.31,m
+DSTQ,60-64,0.88,m
+DSTQ,65-69,0.54,m
+DSTQ,70-74,0.33,m
+DSTQ,75-79,0.23,m
+DSTQ,80+,0.16,m
+DSPN,0-4,3.21,m
+DSPN,5-9,3.31,m
+DSPN,10-14,3.87,m
+DSPN,15-19,4.01,m
+DSPN,20-24,4.57,m
+DSPN,25-29,4.59,m
+DSPN,30-34,4.45,m
+DSPN,35-39,3.81,m
+DSPN,40-44,3.72,m
+DSPN,45-49,3.28,m
+DSPN,50-54,2.69,m
+DSPN,55-59,2.21,m
+DSPN,60-64,1.57,m
+DSPN,65-69,1.09,m
+DSPN,70-74,0.8,m
+DSPN,75-79,0.52,m
+DSPN,80+,0.45,m
+DSCJ,0-4,3.32,m
+DSCJ,5-9,3.4,m
+DSCJ,10-14,4.03,m
+DSCJ,15-19,4.19,m
+DSCJ,20-24,4.55,m
+DSCJ,25-29,4.38,m
+DSCJ,30-34,4.1,m
+DSCJ,35-39,3.77,m
+DSCJ,40-44,3.56,m
+DSCJ,45-49,3.24,m
+DSCJ,50-54,2.69,m
+DSCJ,55-59,2.22,m
+DSCJ,60-64,1.67,m
+DSCJ,65-69,1.15,m
+DSCJ,70-74,0.81,m
+DSCJ,75-79,0.53,m
+DSCJ,80+,0.46,m
+Curitiba,0-4,2.91,f
+Curitiba,5-9,2.91,f
+Curitiba,10-14,3.05,f
+Curitiba,15-19,3.37,f
+Curitiba,20-24,3.73,f
+Curitiba,25-29,3.73,f
+Curitiba,30-34,3.96,f
+Curitiba,35-39,4.23,f
+Curitiba,40-44,4.14,f
+Curitiba,45-49,3.7,f
+Curitiba,50-54,3.43,f
+Curitiba,55-59,3.28,f
+Curitiba,60-64,2.92,f
+Curitiba,65-69,2.41,f
+Curitiba,70-74,1.84,f
+Curitiba,75-79,1.26,f
+Curitiba,80+,1.66,f
+DSBN,0-4,3.63,f
+DSBN,5-9,3.99,f
+DSBN,10-14,4.57,f
+DSBN,15-19,4.7,f
+DSBN,20-24,4.78,f
+DSBN,25-29,4.71,f
+DSBN,30-34,4.5,f
+DSBN,35-39,4.23,f
+DSBN,40-44,3.94,f
+DSBN,45-49,3.39,f
+DSBN,50-54,2.82,f
+DSBN,55-59,2.15,f
+DSBN,60-64,1.44,f
+DSBN,65-69,0.95,f
+DSBN,70-74,0.64,f
+DSBN,75-79,0.39,f
+DSBN,80+,0.39,f
+DSSF,0-4,3.06,f
+DSSF,5-9,3.15,f
+DSSF,10-14,3.56,f
+DSSF,15-19,3.71,f
+DSSF,20-24,4.11,f
+DSSF,25-29,4.6,f
+DSSF,30-34,4.76,f
+DSSF,35-39,4.51,f
+DSSF,40-44,4.27,f
+DSSF,45-49,3.9,f
+DSSF,50-54,3.33,f
+DSSF,55-59,2.8,f
+DSSF,60-64,2.12,f
+DSSF,65-69,1.5,f
+DSSF,70-74,1.08,f
+DSSF,75-79,0.8,f
+DSSF,80+,0.9,f
+DSBV,0-4,2.86,f
+DSBV,5-9,3.0,f
+DSBV,10-14,3.49,f
+DSBV,15-19,3.69,f
+DSBV,20-24,4.3,f
+DSBV,25-29,4.68,f
+DSBV,30-34,4.53,f
+DSBV,35-39,4.12,f
+DSBV,40-44,4.08,f
+DSBV,45-49,4.02,f
+DSBV,50-54,3.55,f
+DSBV,55-59,2.96,f
+DSBV,60-64,2.31,f
+DSBV,65-69,1.65,f
+DSBV,70-74,1.29,f
+DSBV,75-79,0.89,f
+DSBV,80+,1.08,f
+DSBQ,0-4,3.16,f
+DSBQ,5-9,3.31,f
+DSBQ,10-14,3.82,f
+DSBQ,15-19,4.05,f
+DSBQ,20-24,4.37,f
+DSBQ,25-29,4.72,f
+DSBQ,30-34,4.59,f
+DSBQ,35-39,4.22,f
+DSBQ,40-44,3.99,f
+DSBQ,45-49,3.79,f
+DSBQ,50-54,3.24,f
+DSBQ,55-59,2.65,f
+DSBQ,60-64,2.09,f
+DSBQ,65-69,1.43,f
+DSBQ,70-74,1.06,f
+DSBQ,75-79,0.72,f
+DSBQ,80+,0.79,f
+DSCIC,0-4,3.57,f
+DSCIC,5-9,3.68,f
+DSCIC,10-14,4.44,f
+DSCIC,15-19,4.46,f
+DSCIC,20-24,4.72,f
+DSCIC,25-29,4.85,f
+DSCIC,30-34,4.55,f
+DSCIC,35-39,4.16,f
+DSCIC,40-44,3.88,f
+DSCIC,45-49,3.56,f
+DSCIC,50-54,2.98,f
+DSCIC,55-59,2.22,f
+DSCIC,60-64,1.55,f
+DSCIC,65-69,1.07,f
+DSCIC,70-74,0.75,f
+DSCIC,75-79,0.51,f
+DSCIC,80+,0.47,f
+DSMZ,0-4,1.92,f
+DSMZ,5-9,1.75,f
+DSMZ,10-14,2.01,f
+DSMZ,15-19,3.28,f
+DSMZ,20-24,5.31,f
+DSMZ,25-29,5.43,f
+DSMZ,30-34,4.53,f
+DSMZ,35-39,3.61,f
+DSMZ,40-44,3.57,f
+DSMZ,45-49,4.09,f
+DSMZ,50-54,4.01,f
+DSMZ,55-59,3.64,f
+DSMZ,60-64,2.98,f
+DSMZ,65-69,2.25,f
+DSMZ,70-74,1.97,f
+DSMZ,75-79,1.69,f
+DSMZ,80+,2.58,f
+DSPR,0-4,2.59,f
+DSPR,5-9,2.53,f
+DSPR,10-14,2.95,f
+DSPR,15-19,3.49,f
+DSPR,20-24,4.53,f
+DSPR,25-29,4.94,f
+DSPR,30-34,4.59,f
+DSPR,35-39,3.97,f
+DSPR,40-44,3.84,f
+DSPR,45-49,4.17,f
+DSPR,50-54,3.92,f
+DSPR,55-59,3.31,f
+DSPR,60-64,2.54,f
+DSPR,65-69,1.87,f
+DSPR,70-74,1.52,f
+DSPR,75-79,1.22,f
+DSPR,80+,1.52,f
+DSTQ,0-4,4.37,f
+DSTQ,5-9,4.6,f
+DSTQ,10-14,5.25,f
+DSTQ,15-19,4.94,f
+DSTQ,20-24,4.53,f
+DSTQ,25-29,4.8,f
+DSTQ,30-34,4.77,f
+DSTQ,35-39,4.43,f
+DSTQ,40-44,3.67,f
+DSTQ,45-49,2.96,f
+DSTQ,50-54,2.19,f
+DSTQ,55-59,1.47,f
+DSTQ,60-64,0.95,f
+DSTQ,65-69,0.63,f
+DSTQ,70-74,0.4,f
+DSTQ,75-79,0.26,f
+DSTQ,80+,0.28,f
+DSPN,0-4,3.08,f
+DSPN,5-9,3.04,f
+DSPN,10-14,3.7,f
+DSPN,15-19,4.06,f
+DSPN,20-24,4.55,f
+DSPN,25-29,4.9,f
+DSPN,30-34,4.57,f
+DSPN,35-39,4.05,f
+DSPN,40-44,3.99,f
+DSPN,45-49,3.78,f
+DSPN,50-54,3.32,f
+DSPN,55-59,2.55,f
+DSPN,60-64,2.02,f
+DSPN,65-69,1.44,f
+DSPN,70-74,1.13,f
+DSPN,75-79,0.85,f
+DSPN,80+,0.83,f
+DSCJ,0-4,3.2,f
+DSCJ,5-9,3.36,f
+DSCJ,10-14,3.9,f
+DSCJ,15-19,4.07,f
+DSCJ,20-24,4.39,f
+DSCJ,25-29,4.56,f
+DSCJ,30-34,4.45,f
+DSCJ,35-39,4.06,f
+DSCJ,40-44,3.9,f
+DSCJ,45-49,3.75,f
+DSCJ,50-54,3.26,f
+DSCJ,55-59,2.63,f
+DSCJ,60-64,2.07,f
+DSCJ,65-69,1.5,f
+DSCJ,70-74,1.09,f
+DSCJ,75-79,0.85,f
+DSCJ,80+,0.89,f
