@@ -1,749 +1,749 @@
 codigo_reg,localidade,idade,perc,sexo
-7,Pato Branco,0-4,3.77,m
-7,Pato Branco,5-9,3.7,m
-7,Pato Branco,10-14,3.43,m
-7,Pato Branco,15-19,3.46,m
-7,Pato Branco,20-24,3.93,m
-7,Pato Branco,25-29,4.19,m
-7,Pato Branco,30-34,3.85,m
-7,Pato Branco,35-39,3.57,m
-7,Pato Branco,40-44,3.23,m
-7,Pato Branco,45-49,3.04,m
-7,Pato Branco,50-54,3.0,m
-7,Pato Branco,55-59,2.78,m
-7,Pato Branco,60-64,2.33,m
-7,Pato Branco,65-69,1.88,m
-7,Pato Branco,70-74,1.36,m
-7,Pato Branco,75-79,0.87,m
-7,Pato Branco,80+,0.9,m
-4,Irati,0-4,3.82,m
-4,Irati,5-9,3.7,m
-4,Irati,10-14,3.37,m
-4,Irati,15-19,3.62,m
-4,Irati,20-24,4.15,m
-4,Irati,25-29,4.33,m
-4,Irati,30-34,3.91,m
-4,Irati,35-39,3.76,m
-4,Irati,40-44,3.55,m
-4,Irati,45-49,3.3,m
-4,Irati,50-54,3.25,m
-4,Irati,55-59,2.92,m
-4,Irati,60-64,2.34,m
-4,Irati,65-69,1.8,m
-4,Irati,70-74,1.23,m
-4,Irati,75-79,0.78,m
-4,Irati,80+,0.73,m
-5,Guarapuava,0-4,3.96,m
-5,Guarapuava,5-9,3.81,m
-5,Guarapuava,10-14,3.39,m
-5,Guarapuava,15-19,3.55,m
-5,Guarapuava,20-24,4.07,m
-5,Guarapuava,25-29,4.23,m
-5,Guarapuava,30-34,3.69,m
-5,Guarapuava,35-39,3.45,m
-5,Guarapuava,40-44,3.37,m
-5,Guarapuava,45-49,3.21,m
-5,Guarapuava,50-54,3.12,m
-5,Guarapuava,55-59,2.81,m
-5,Guarapuava,60-64,2.27,m
-5,Guarapuava,65-69,1.76,m
-5,Guarapuava,70-74,1.27,m
-5,Guarapuava,75-79,0.81,m
-5,Guarapuava,80+,0.92,m
-10,Cascavel,0-4,3.46,m
+16,Apucarana,0-4,3.13,f
+16,Apucarana,5-9,3.14,f
+16,Apucarana,10-14,3.13,f
+16,Apucarana,15-19,3.28,f
+16,Apucarana,20-24,3.67,f
+16,Apucarana,25-29,3.88,f
+16,Apucarana,30-34,3.88,f
+16,Apucarana,35-39,3.76,f
+16,Apucarana,40-44,3.66,f
+16,Apucarana,45-49,3.43,f
+16,Apucarana,50-54,3.52,f
+16,Apucarana,55-59,3.13,f
+16,Apucarana,60-64,2.65,f
+16,Apucarana,65-69,2.2,f
+16,Apucarana,70-74,1.67,f
+16,Apucarana,75-79,1.22,f
+16,Apucarana,80+,1.54,f
+16,Apucarana,0-4,3.29,m
+16,Apucarana,5-9,3.28,m
+16,Apucarana,10-14,3.25,m
+16,Apucarana,15-19,3.35,m
+16,Apucarana,20-24,3.8,m
+16,Apucarana,25-29,3.91,m
+16,Apucarana,30-34,3.88,m
+16,Apucarana,35-39,3.75,m
+16,Apucarana,40-44,3.54,m
+16,Apucarana,45-49,3.25,m
+16,Apucarana,50-54,3.26,m
+16,Apucarana,55-59,2.86,m
+16,Apucarana,60-64,2.36,m
+16,Apucarana,65-69,1.86,m
+16,Apucarana,70-74,1.39,m
+16,Apucarana,75-79,0.98,m
+16,Apucarana,80+,1.1,m
+11,Campo Mourão,0-4,2.99,f
+11,Campo Mourão,5-9,2.99,f
+11,Campo Mourão,10-14,2.86,f
+11,Campo Mourão,15-19,3.06,f
+11,Campo Mourão,20-24,3.54,f
+11,Campo Mourão,25-29,3.95,f
+11,Campo Mourão,30-34,3.74,f
+11,Campo Mourão,35-39,3.63,f
+11,Campo Mourão,40-44,3.53,f
+11,Campo Mourão,45-49,3.67,f
+11,Campo Mourão,50-54,3.78,f
+11,Campo Mourão,55-59,3.45,f
+11,Campo Mourão,60-64,2.85,f
+11,Campo Mourão,65-69,2.29,f
+11,Campo Mourão,70-74,1.7,f
+11,Campo Mourão,75-79,1.24,f
+11,Campo Mourão,80+,1.57,f
+11,Campo Mourão,0-4,3.13,m
+11,Campo Mourão,5-9,3.16,m
+11,Campo Mourão,10-14,3.0,m
+11,Campo Mourão,15-19,3.17,m
+11,Campo Mourão,20-24,3.58,m
+11,Campo Mourão,25-29,3.98,m
+11,Campo Mourão,30-34,3.74,m
+11,Campo Mourão,35-39,3.51,m
+11,Campo Mourão,40-44,3.31,m
+11,Campo Mourão,45-49,3.34,m
+11,Campo Mourão,50-54,3.44,m
+11,Campo Mourão,55-59,3.27,m
+11,Campo Mourão,60-64,2.56,m
+11,Campo Mourão,65-69,2.03,m
+11,Campo Mourão,70-74,1.53,m
+11,Campo Mourão,75-79,1.08,m
+11,Campo Mourão,80+,1.34,m
+10,Cascavel,0-4,3.34,f
+10,Cascavel,5-9,3.27,f
+10,Cascavel,10-14,3.14,f
+10,Cascavel,15-19,3.38,f
+10,Cascavel,20-24,3.92,f
+10,Cascavel,25-29,4.18,f
+10,Cascavel,30-34,3.92,f
+10,Cascavel,35-39,3.77,f
+10,Cascavel,40-44,3.59,f
+10,Cascavel,45-49,3.53,f
+10,Cascavel,50-54,3.39,f
+10,Cascavel,55-59,3.03,f
+10,Cascavel,60-64,2.5,f
+10,Cascavel,65-69,2.0,f
+10,Cascavel,70-74,1.47,f
+10,Cascavel,75-79,1.0,f
+10,Cascavel,80+,1.22,f
+10,Cascavel,0-4,3.5,m
 10,Cascavel,5-9,3.44,m
-10,Cascavel,10-14,3.29,m
-10,Cascavel,15-19,3.37,m
-10,Cascavel,20-24,3.94,m
-10,Cascavel,25-29,4.23,m
-10,Cascavel,30-34,4.04,m
-10,Cascavel,35-39,3.75,m
-10,Cascavel,40-44,3.45,m
-10,Cascavel,45-49,3.25,m
-10,Cascavel,50-54,3.14,m
-10,Cascavel,55-59,2.79,m
-10,Cascavel,60-64,2.26,m
-10,Cascavel,65-69,1.8,m
-10,Cascavel,70-74,1.32,m
-10,Cascavel,75-79,0.87,m
-10,Cascavel,80+,0.97,m
-21,Telêmaco Borba,0-4,4.31,m
-21,Telêmaco Borba,5-9,4.14,m
-21,Telêmaco Borba,10-14,3.7,m
-21,Telêmaco Borba,15-19,3.74,m
-21,Telêmaco Borba,20-24,4.14,m
-21,Telêmaco Borba,25-29,4.06,m
-21,Telêmaco Borba,30-34,3.76,m
-21,Telêmaco Borba,35-39,3.67,m
-21,Telêmaco Borba,40-44,3.52,m
-21,Telêmaco Borba,45-49,3.24,m
-21,Telêmaco Borba,50-54,2.87,m
-21,Telêmaco Borba,55-59,2.61,m
-21,Telêmaco Borba,60-64,2.21,m
-21,Telêmaco Borba,65-69,1.63,m
-21,Telêmaco Borba,70-74,1.2,m
-21,Telêmaco Borba,75-79,0.81,m
-21,Telêmaco Borba,80+,0.84,m
-3,Ponta Grossa,0-4,4.05,m
-3,Ponta Grossa,5-9,3.91,m
-3,Ponta Grossa,10-14,3.66,m
-3,Ponta Grossa,15-19,3.82,m
-3,Ponta Grossa,20-24,4.24,m
-3,Ponta Grossa,25-29,4.18,m
-3,Ponta Grossa,30-34,3.83,m
-3,Ponta Grossa,35-39,3.69,m
-3,Ponta Grossa,40-44,3.5,m
-3,Ponta Grossa,45-49,3.14,m
-3,Ponta Grossa,50-54,2.83,m
-3,Ponta Grossa,55-59,2.48,m
-3,Ponta Grossa,60-64,2.03,m
-3,Ponta Grossa,65-69,1.55,m
-3,Ponta Grossa,70-74,1.08,m
-3,Ponta Grossa,75-79,0.67,m
-3,Ponta Grossa,80+,0.68,m
-17,Londrina,0-4,3.18,m
-17,Londrina,5-9,3.18,m
-17,Londrina,10-14,3.14,m
-17,Londrina,15-19,3.33,m
-17,Londrina,20-24,3.72,m
-17,Londrina,25-29,3.75,m
-17,Londrina,30-34,3.77,m
-17,Londrina,35-39,3.69,m
-17,Londrina,40-44,3.51,m
-17,Londrina,45-49,3.19,m
-17,Londrina,50-54,3.1,m
-17,Londrina,55-59,2.85,m
-17,Londrina,60-64,2.43,m
-17,Londrina,65-69,1.96,m
-17,Londrina,70-74,1.47,m
-17,Londrina,75-79,1.01,m
-17,Londrina,80+,1.14,m
-18,Cornélio Procópio,0-4,3.1,m
-18,Cornélio Procópio,5-9,3.12,m
-18,Cornélio Procópio,10-14,2.92,m
-18,Cornélio Procópio,15-19,2.93,m
-18,Cornélio Procópio,20-24,3.36,m
-18,Cornélio Procópio,25-29,3.65,m
-18,Cornélio Procópio,30-34,3.59,m
-18,Cornélio Procópio,35-39,3.46,m
-18,Cornélio Procópio,40-44,3.34,m
+10,Cascavel,10-14,3.34,m
+10,Cascavel,15-19,3.45,m
+10,Cascavel,20-24,4.05,m
+10,Cascavel,25-29,4.28,m
+10,Cascavel,30-34,4.03,m
+10,Cascavel,35-39,3.72,m
+10,Cascavel,40-44,3.42,m
+10,Cascavel,45-49,3.27,m
+10,Cascavel,50-54,3.15,m
+10,Cascavel,55-59,2.73,m
+10,Cascavel,60-64,2.19,m
+10,Cascavel,65-69,1.76,m
+10,Cascavel,70-74,1.27,m
+10,Cascavel,75-79,0.84,m
+10,Cascavel,80+,0.93,m
+13,Cianorte,0-4,3.14,f
+13,Cianorte,5-9,3.15,f
+13,Cianorte,10-14,3.14,f
+13,Cianorte,15-19,3.27,f
+13,Cianorte,20-24,3.82,f
+13,Cianorte,25-29,4.07,f
+13,Cianorte,30-34,3.93,f
+13,Cianorte,35-39,3.75,f
+13,Cianorte,40-44,3.65,f
+13,Cianorte,45-49,3.64,f
+13,Cianorte,50-54,3.57,f
+13,Cianorte,55-59,3.11,f
+13,Cianorte,60-64,2.45,f
+13,Cianorte,65-69,1.92,f
+13,Cianorte,70-74,1.5,f
+13,Cianorte,75-79,1.12,f
+13,Cianorte,80+,1.32,f
+13,Cianorte,0-4,3.3,m
+13,Cianorte,5-9,3.3,m
+13,Cianorte,10-14,3.29,m
+13,Cianorte,15-19,3.37,m
+13,Cianorte,20-24,3.98,m
+13,Cianorte,25-29,4.17,m
+13,Cianorte,30-34,4.03,m
+13,Cianorte,35-39,3.72,m
+13,Cianorte,40-44,3.57,m
+13,Cianorte,45-49,3.35,m
+13,Cianorte,50-54,3.36,m
+13,Cianorte,55-59,2.9,m
+13,Cianorte,60-64,2.21,m
+13,Cianorte,65-69,1.77,m
+13,Cianorte,70-74,1.29,m
+13,Cianorte,75-79,0.86,m
+13,Cianorte,80+,1.0,m
+18,Cornélio Procópio,0-4,2.99,f
+18,Cornélio Procópio,5-9,2.99,f
+18,Cornélio Procópio,10-14,2.86,f
+18,Cornélio Procópio,15-19,2.88,f
+18,Cornélio Procópio,20-24,3.37,f
+18,Cornélio Procópio,25-29,3.79,f
+18,Cornélio Procópio,30-34,3.62,f
+18,Cornélio Procópio,35-39,3.5,f
+18,Cornélio Procópio,40-44,3.54,f
+18,Cornélio Procópio,45-49,3.56,f
+18,Cornélio Procópio,50-54,3.64,f
+18,Cornélio Procópio,55-59,3.46,f
+18,Cornélio Procópio,60-64,2.93,f
+18,Cornélio Procópio,65-69,2.56,f
+18,Cornélio Procópio,70-74,1.96,f
+18,Cornélio Procópio,75-79,1.39,f
+18,Cornélio Procópio,80+,1.78,f
+18,Cornélio Procópio,0-4,3.14,m
+18,Cornélio Procópio,5-9,3.13,m
+18,Cornélio Procópio,10-14,2.96,m
+18,Cornélio Procópio,15-19,3.03,m
+18,Cornélio Procópio,20-24,3.48,m
+18,Cornélio Procópio,25-29,3.72,m
+18,Cornélio Procópio,30-34,3.57,m
+18,Cornélio Procópio,35-39,3.44,m
+18,Cornélio Procópio,40-44,3.32,m
 18,Cornélio Procópio,45-49,3.26,m
-18,Cornélio Procópio,50-54,3.44,m
-18,Cornélio Procópio,55-59,3.3,m
-18,Cornélio Procópio,60-64,2.83,m
-18,Cornélio Procópio,65-69,2.33,m
-18,Cornélio Procópio,70-74,1.81,m
-18,Cornélio Procópio,75-79,1.19,m
-18,Cornélio Procópio,80+,1.51,m
-20,Toledo,0-4,3.14,m
-20,Toledo,5-9,3.18,m
-20,Toledo,10-14,3.1,m
-20,Toledo,15-19,3.24,m
-20,Toledo,20-24,3.68,m
-20,Toledo,25-29,3.99,m
-20,Toledo,30-34,3.97,m
-20,Toledo,35-39,3.74,m
-20,Toledo,40-44,3.45,m
-20,Toledo,45-49,3.31,m
-20,Toledo,50-54,3.27,m
-20,Toledo,55-59,3.01,m
-20,Toledo,60-64,2.42,m
-20,Toledo,65-69,1.91,m
-20,Toledo,70-74,1.44,m
-20,Toledo,75-79,0.98,m
-20,Toledo,80+,1.05,m
-12,Umuarama,0-4,3.08,m
-12,Umuarama,5-9,3.15,m
-12,Umuarama,10-14,3.05,m
-12,Umuarama,15-19,3.1,m
-12,Umuarama,20-24,3.4,m
-12,Umuarama,25-29,3.77,m
-12,Umuarama,30-34,3.88,m
-12,Umuarama,35-39,3.72,m
-12,Umuarama,40-44,3.53,m
-12,Umuarama,45-49,3.35,m
-12,Umuarama,50-54,3.39,m
-12,Umuarama,55-59,3.1,m
-12,Umuarama,60-64,2.59,m
-12,Umuarama,65-69,2.02,m
-12,Umuarama,70-74,1.59,m
-12,Umuarama,75-79,1.13,m
-12,Umuarama,80+,1.42,m
-8,Francisco Beltrão,0-4,3.31,m
-8,Francisco Beltrão,5-9,3.31,m
-8,Francisco Beltrão,10-14,3.15,m
-8,Francisco Beltrão,15-19,3.2,m
-8,Francisco Beltrão,20-24,3.7,m
-8,Francisco Beltrão,25-29,4.16,m
-8,Francisco Beltrão,30-34,4.03,m
-8,Francisco Beltrão,35-39,3.74,m
-8,Francisco Beltrão,40-44,3.38,m
-8,Francisco Beltrão,45-49,3.24,m
-8,Francisco Beltrão,50-54,3.31,m
-8,Francisco Beltrão,55-59,3.2,m
-8,Francisco Beltrão,60-64,2.64,m
-8,Francisco Beltrão,65-69,2.02,m
-8,Francisco Beltrão,70-74,1.49,m
-8,Francisco Beltrão,75-79,0.96,m
-8,Francisco Beltrão,80+,1.01,m
-22,Ivaiporã,0-4,3.34,m
-22,Ivaiporã,5-9,3.35,m
-22,Ivaiporã,10-14,2.97,m
-22,Ivaiporã,15-19,2.72,m
-22,Ivaiporã,20-24,3.08,m
-22,Ivaiporã,25-29,3.78,m
-22,Ivaiporã,30-34,3.42,m
-22,Ivaiporã,35-39,3.38,m
+18,Cornélio Procópio,50-54,3.49,m
+18,Cornélio Procópio,55-59,3.25,m
+18,Cornélio Procópio,60-64,2.76,m
+18,Cornélio Procópio,65-69,2.26,m
+18,Cornélio Procópio,70-74,1.76,m
+18,Cornélio Procópio,75-79,1.14,m
+18,Cornélio Procópio,80+,1.45,m
+02,Curitiba,0-4,3.41,f
+02,Curitiba,5-9,3.29,f
+02,Curitiba,10-14,3.31,f
+02,Curitiba,15-19,3.65,f
+02,Curitiba,20-24,4.09,f
+02,Curitiba,25-29,3.95,f
+02,Curitiba,30-34,3.99,f
+02,Curitiba,35-39,4.11,f
+02,Curitiba,40-44,3.93,f
+02,Curitiba,45-49,3.53,f
+02,Curitiba,50-54,3.26,f
+02,Curitiba,55-59,2.95,f
+02,Curitiba,60-64,2.5,f
+02,Curitiba,65-69,1.96,f
+02,Curitiba,70-74,1.43,f
+02,Curitiba,75-79,0.94,f
+02,Curitiba,80+,1.19,f
+02,Curitiba,0-4,3.58,m
+02,Curitiba,5-9,3.44,m
+02,Curitiba,10-14,3.42,m
+02,Curitiba,15-19,3.81,m
+02,Curitiba,20-24,4.23,m
+02,Curitiba,25-29,3.97,m
+02,Curitiba,30-34,3.87,m
+02,Curitiba,35-39,3.9,m
+02,Curitiba,40-44,3.67,m
+02,Curitiba,45-49,3.26,m
+02,Curitiba,50-54,2.92,m
+02,Curitiba,55-59,2.48,m
+02,Curitiba,60-64,2.02,m
+02,Curitiba,65-69,1.56,m
+02,Curitiba,70-74,1.07,m
+02,Curitiba,75-79,0.65,m
+02,Curitiba,80+,0.65,m
+09,Foz do Iguaçu,0-4,3.5,f
+09,Foz do Iguaçu,5-9,3.43,f
+09,Foz do Iguaçu,10-14,3.3,f
+09,Foz do Iguaçu,15-19,3.46,f
+09,Foz do Iguaçu,20-24,3.98,f
+09,Foz do Iguaçu,25-29,4.18,f
+09,Foz do Iguaçu,30-34,3.9,f
+09,Foz do Iguaçu,35-39,3.78,f
+09,Foz do Iguaçu,40-44,3.77,f
+09,Foz do Iguaçu,45-49,3.58,f
+09,Foz do Iguaçu,50-54,3.5,f
+09,Foz do Iguaçu,55-59,3.21,f
+09,Foz do Iguaçu,60-64,2.65,f
+09,Foz do Iguaçu,65-69,2.01,f
+09,Foz do Iguaçu,70-74,1.44,f
+09,Foz do Iguaçu,75-79,0.98,f
+09,Foz do Iguaçu,80+,1.09,f
+09,Foz do Iguaçu,0-4,3.67,m
+09,Foz do Iguaçu,5-9,3.57,m
+09,Foz do Iguaçu,10-14,3.4,m
+09,Foz do Iguaçu,15-19,3.51,m
+09,Foz do Iguaçu,20-24,3.97,m
+09,Foz do Iguaçu,25-29,4.07,m
+09,Foz do Iguaçu,30-34,3.66,m
+09,Foz do Iguaçu,35-39,3.38,m
+09,Foz do Iguaçu,40-44,3.27,m
+09,Foz do Iguaçu,45-49,3.21,m
+09,Foz do Iguaçu,50-54,3.09,m
+09,Foz do Iguaçu,55-59,2.73,m
+09,Foz do Iguaçu,60-64,2.25,m
+09,Foz do Iguaçu,65-69,1.73,m
+09,Foz do Iguaçu,70-74,1.19,m
+09,Foz do Iguaçu,75-79,0.77,m
+09,Foz do Iguaçu,80+,0.76,m
+08,Francisco Beltrão,0-4,3.19,f
+08,Francisco Beltrão,5-9,3.14,f
+08,Francisco Beltrão,10-14,2.92,f
+08,Francisco Beltrão,15-19,3.14,f
+08,Francisco Beltrão,20-24,3.75,f
+08,Francisco Beltrão,25-29,4.18,f
+08,Francisco Beltrão,30-34,3.87,f
+08,Francisco Beltrão,35-39,3.68,f
+08,Francisco Beltrão,40-44,3.31,f
+08,Francisco Beltrão,45-49,3.39,f
+08,Francisco Beltrão,50-54,3.46,f
+08,Francisco Beltrão,55-59,3.22,f
+08,Francisco Beltrão,60-64,2.67,f
+08,Francisco Beltrão,65-69,2.16,f
+08,Francisco Beltrão,70-74,1.61,f
+08,Francisco Beltrão,75-79,1.12,f
+08,Francisco Beltrão,80+,1.34,f
+08,Francisco Beltrão,0-4,3.34,m
+08,Francisco Beltrão,5-9,3.31,m
+08,Francisco Beltrão,10-14,3.21,m
+08,Francisco Beltrão,15-19,3.3,m
+08,Francisco Beltrão,20-24,3.82,m
+08,Francisco Beltrão,25-29,4.25,m
+08,Francisco Beltrão,30-34,3.99,m
+08,Francisco Beltrão,35-39,3.68,m
+08,Francisco Beltrão,40-44,3.32,m
+08,Francisco Beltrão,45-49,3.25,m
+08,Francisco Beltrão,50-54,3.35,m
+08,Francisco Beltrão,55-59,3.18,m
+08,Francisco Beltrão,60-64,2.56,m
+08,Francisco Beltrão,65-69,1.96,m
+08,Francisco Beltrão,70-74,1.44,m
+08,Francisco Beltrão,75-79,0.93,m
+08,Francisco Beltrão,80+,0.97,m
+05,Guarapuava,0-4,3.81,f
+05,Guarapuava,5-9,3.61,f
+05,Guarapuava,10-14,3.26,f
+05,Guarapuava,15-19,3.61,f
+05,Guarapuava,20-24,4.19,f
+05,Guarapuava,25-29,4.18,f
+05,Guarapuava,30-34,3.61,f
+05,Guarapuava,35-39,3.61,f
+05,Guarapuava,40-44,3.51,f
+05,Guarapuava,45-49,3.37,f
+05,Guarapuava,50-54,3.2,f
+05,Guarapuava,55-59,2.9,f
+05,Guarapuava,60-64,2.3,f
+05,Guarapuava,65-69,1.85,f
+05,Guarapuava,70-74,1.29,f
+05,Guarapuava,75-79,0.91,f
+05,Guarapuava,80+,1.06,f
+05,Guarapuava,0-4,4.0,m
+05,Guarapuava,5-9,3.8,m
+05,Guarapuava,10-14,3.43,m
+05,Guarapuava,15-19,3.73,m
+05,Guarapuava,20-24,4.19,m
+05,Guarapuava,25-29,4.27,m
+05,Guarapuava,30-34,3.59,m
+05,Guarapuava,35-39,3.45,m
+05,Guarapuava,40-44,3.38,m
+05,Guarapuava,45-49,3.22,m
+05,Guarapuava,50-54,3.12,m
+05,Guarapuava,55-59,2.76,m
+05,Guarapuava,60-64,2.21,m
+05,Guarapuava,65-69,1.71,m
+05,Guarapuava,70-74,1.22,m
+05,Guarapuava,75-79,0.77,m
+05,Guarapuava,80+,0.88,m
+04,Irati,0-4,3.67,f
+04,Irati,5-9,3.48,f
+04,Irati,10-14,3.3,f
+04,Irati,15-19,3.61,f
+04,Irati,20-24,4.0,f
+04,Irati,25-29,4.24,f
+04,Irati,30-34,3.69,f
+04,Irati,35-39,3.57,f
+04,Irati,40-44,3.51,f
+04,Irati,45-49,3.3,f
+04,Irati,50-54,3.19,f
+04,Irati,55-59,2.81,f
+04,Irati,60-64,2.19,f
+04,Irati,65-69,1.77,f
+04,Irati,70-74,1.27,f
+04,Irati,75-79,0.89,f
+04,Irati,80+,0.97,f
+04,Irati,0-4,3.84,m
+04,Irati,5-9,3.68,m
+04,Irati,10-14,3.39,m
+04,Irati,15-19,3.78,m
+04,Irati,20-24,4.24,m
+04,Irati,25-29,4.37,m
+04,Irati,30-34,3.85,m
+04,Irati,35-39,3.77,m
+04,Irati,40-44,3.52,m
+04,Irati,45-49,3.3,m
+04,Irati,50-54,3.27,m
+04,Irati,55-59,2.87,m
+04,Irati,60-64,2.28,m
+04,Irati,65-69,1.75,m
+04,Irati,70-74,1.18,m
+04,Irati,75-79,0.76,m
+04,Irati,80+,0.71,m
+22,Ivaiporã,0-4,3.23,f
+22,Ivaiporã,5-9,3.17,f
+22,Ivaiporã,10-14,2.82,f
+22,Ivaiporã,15-19,2.94,f
+22,Ivaiporã,20-24,3.45,f
+22,Ivaiporã,25-29,3.98,f
+22,Ivaiporã,30-34,3.39,f
+22,Ivaiporã,35-39,3.44,f
+22,Ivaiporã,40-44,3.39,f
+22,Ivaiporã,45-49,3.57,f
+22,Ivaiporã,50-54,3.61,f
+22,Ivaiporã,55-59,3.34,f
+22,Ivaiporã,60-64,2.85,f
+22,Ivaiporã,65-69,2.32,f
+22,Ivaiporã,70-74,1.79,f
+22,Ivaiporã,75-79,1.29,f
+22,Ivaiporã,80+,1.52,f
+22,Ivaiporã,0-4,3.38,m
+22,Ivaiporã,5-9,3.36,m
+22,Ivaiporã,10-14,3.0,m
+22,Ivaiporã,15-19,2.81,m
+22,Ivaiporã,20-24,3.21,m
+22,Ivaiporã,25-29,3.95,m
+22,Ivaiporã,30-34,3.29,m
+22,Ivaiporã,35-39,3.39,m
 22,Ivaiporã,40-44,3.42,m
 22,Ivaiporã,45-49,3.37,m
-22,Ivaiporã,50-54,3.62,m
-22,Ivaiporã,55-59,3.45,m
-22,Ivaiporã,60-64,2.92,m
-22,Ivaiporã,65-69,2.38,m
-22,Ivaiporã,70-74,1.86,m
-22,Ivaiporã,75-79,1.3,m
-22,Ivaiporã,80+,1.52,m
-14,Paranavaí,0-4,3.28,m
-14,Paranavaí,5-9,3.34,m
-14,Paranavaí,10-14,3.27,m
-14,Paranavaí,15-19,3.21,m
-14,Paranavaí,20-24,3.56,m
-14,Paranavaí,25-29,3.94,m
-14,Paranavaí,30-34,3.85,m
-14,Paranavaí,35-39,3.62,m
-14,Paranavaí,40-44,3.38,m
-14,Paranavaí,45-49,3.35,m
-14,Paranavaí,50-54,3.39,m
-14,Paranavaí,55-59,3.1,m
-14,Paranavaí,60-64,2.54,m
-14,Paranavaí,65-69,1.92,m
-14,Paranavaí,70-74,1.42,m
-14,Paranavaí,75-79,1.02,m
-14,Paranavaí,80+,1.29,m
-1,Paranaguá,0-4,3.99,m
-1,Paranaguá,5-9,3.82,m
-1,Paranaguá,10-14,3.38,m
-1,Paranaguá,15-19,3.45,m
-1,Paranaguá,20-24,3.94,m
-1,Paranaguá,25-29,3.88,m
-1,Paranaguá,30-34,3.42,m
-1,Paranaguá,35-39,3.33,m
-1,Paranaguá,40-44,3.26,m
-1,Paranaguá,45-49,3.22,m
-1,Paranaguá,50-54,3.13,m
-1,Paranaguá,55-59,2.93,m
-1,Paranaguá,60-64,2.4,m
-1,Paranaguá,65-69,1.83,m
-1,Paranaguá,70-74,1.29,m
-1,Paranaguá,75-79,0.8,m
-1,Paranaguá,80+,0.78,m
-13,Cianorte,0-4,3.27,m
-13,Cianorte,5-9,3.3,m
-13,Cianorte,10-14,3.24,m
-13,Cianorte,15-19,3.31,m
-13,Cianorte,20-24,3.87,m
-13,Cianorte,25-29,4.12,m
-13,Cianorte,30-34,4.02,m
-13,Cianorte,35-39,3.76,m
-13,Cianorte,40-44,3.58,m
-13,Cianorte,45-49,3.35,m
-13,Cianorte,50-54,3.33,m
-13,Cianorte,55-59,2.96,m
-13,Cianorte,60-64,2.3,m
-13,Cianorte,65-69,1.8,m
-13,Cianorte,70-74,1.33,m
-13,Cianorte,75-79,0.88,m
-13,Cianorte,80+,1.02,m
-6,União da Vitória,0-4,3.86,m
-6,União da Vitória,5-9,3.74,m
-6,União da Vitória,10-14,3.46,m
-6,União da Vitória,15-19,3.7,m
-6,União da Vitória,20-24,4.16,m
-6,União da Vitória,25-29,4.15,m
-6,União da Vitória,30-34,3.77,m
-6,União da Vitória,35-39,3.62,m
-6,União da Vitória,40-44,3.6,m
-6,União da Vitória,45-49,3.39,m
-6,União da Vitória,50-54,3.15,m
-6,União da Vitória,55-59,2.84,m
-6,União da Vitória,60-64,2.32,m
-6,União da Vitória,65-69,1.77,m
-6,União da Vitória,70-74,1.2,m
-6,União da Vitória,75-79,0.75,m
-6,União da Vitória,80+,0.81,m
-2,Curitiba,0-4,3.55,m
-2,Curitiba,5-9,3.45,m
-2,Curitiba,10-14,3.37,m
-2,Curitiba,15-19,3.69,m
-2,Curitiba,20-24,4.17,m
-2,Curitiba,25-29,4.01,m
-2,Curitiba,30-34,3.83,m
-2,Curitiba,35-39,3.85,m
-2,Curitiba,40-44,3.67,m
-2,Curitiba,45-49,3.28,m
-2,Curitiba,50-54,2.94,m
-2,Curitiba,55-59,2.53,m
-2,Curitiba,60-64,2.06,m
-2,Curitiba,65-69,1.6,m
-2,Curitiba,70-74,1.11,m
-2,Curitiba,75-79,0.68,m
-2,Curitiba,80+,0.68,m
-15,Maringá,0-4,2.99,m
-15,Maringá,5-9,3.06,m
-15,Maringá,10-14,3.15,m
-15,Maringá,15-19,3.38,m
-15,Maringá,20-24,3.73,m
-15,Maringá,25-29,3.9,m
-15,Maringá,30-34,4.1,m
-15,Maringá,35-39,3.89,m
-15,Maringá,40-44,3.51,m
-15,Maringá,45-49,3.24,m
-15,Maringá,50-54,3.19,m
-15,Maringá,55-59,2.92,m
-15,Maringá,60-64,2.4,m
-15,Maringá,65-69,1.94,m
-15,Maringá,70-74,1.44,m
-15,Maringá,75-79,0.96,m
-15,Maringá,80+,1.02,m
-19,Jacarezinho,0-4,3.42,m
-19,Jacarezinho,5-9,3.41,m
-19,Jacarezinho,10-14,3.19,m
-19,Jacarezinho,15-19,3.2,m
-19,Jacarezinho,20-24,3.59,m
-19,Jacarezinho,25-29,3.82,m
-19,Jacarezinho,30-34,3.72,m
-19,Jacarezinho,35-39,3.65,m
-19,Jacarezinho,40-44,3.45,m
-19,Jacarezinho,45-49,3.26,m
-19,Jacarezinho,50-54,3.28,m
-19,Jacarezinho,55-59,3.17,m
-19,Jacarezinho,60-64,2.67,m
-19,Jacarezinho,65-69,2.12,m
-19,Jacarezinho,70-74,1.6,m
-19,Jacarezinho,75-79,1.02,m
-19,Jacarezinho,80+,1.15,m
-11,Campo Mourão,0-4,3.1,m
-11,Campo Mourão,5-9,3.15,m
-11,Campo Mourão,10-14,2.96,m
-11,Campo Mourão,15-19,3.05,m
-11,Campo Mourão,20-24,3.47,m
-11,Campo Mourão,25-29,3.89,m
-11,Campo Mourão,30-34,3.77,m
-11,Campo Mourão,35-39,3.55,m
-11,Campo Mourão,40-44,3.34,m
-11,Campo Mourão,45-49,3.31,m
-11,Campo Mourão,50-54,3.42,m
-11,Campo Mourão,55-59,3.3,m
-11,Campo Mourão,60-64,2.67,m
-11,Campo Mourão,65-69,2.09,m
-11,Campo Mourão,70-74,1.58,m
-11,Campo Mourão,75-79,1.12,m
-11,Campo Mourão,80+,1.39,m
-9,Foz do Iguaçu,0-4,3.63,m
-9,Foz do Iguaçu,5-9,3.56,m
-9,Foz do Iguaçu,10-14,3.34,m
-9,Foz do Iguaçu,15-19,3.39,m
-9,Foz do Iguaçu,20-24,3.86,m
-9,Foz do Iguaçu,25-29,4.02,m
-9,Foz do Iguaçu,30-34,3.69,m
-9,Foz do Iguaçu,35-39,3.4,m
-9,Foz do Iguaçu,40-44,3.25,m
-9,Foz do Iguaçu,45-49,3.16,m
-9,Foz do Iguaçu,50-54,3.08,m
-9,Foz do Iguaçu,55-59,2.79,m
-9,Foz do Iguaçu,60-64,2.32,m
-9,Foz do Iguaçu,65-69,1.8,m
-9,Foz do Iguaçu,70-74,1.25,m
-9,Foz do Iguaçu,75-79,0.8,m
-9,Foz do Iguaçu,80+,0.81,m
-16,Apucarana,0-4,3.26,m
-16,Apucarana,5-9,3.28,m
-16,Apucarana,10-14,3.2,m
-16,Apucarana,15-19,3.28,m
-16,Apucarana,20-24,3.71,m
-16,Apucarana,25-29,3.87,m
-16,Apucarana,30-34,3.85,m
-16,Apucarana,35-39,3.75,m
-16,Apucarana,40-44,3.56,m
-16,Apucarana,45-49,3.27,m
-16,Apucarana,50-54,3.23,m
-16,Apucarana,55-59,2.91,m
-16,Apucarana,60-64,2.42,m
-16,Apucarana,65-69,1.92,m
-16,Apucarana,70-74,1.43,m
-16,Apucarana,75-79,1.0,m
-16,Apucarana,80+,1.14,m
-7,Pato Branco,0-4,3.6,f
-7,Pato Branco,5-9,3.5,f
-7,Pato Branco,10-14,3.25,f
-7,Pato Branco,15-19,3.34,f
-7,Pato Branco,20-24,3.88,f
-7,Pato Branco,25-29,4.13,f
-7,Pato Branco,30-34,3.84,f
-7,Pato Branco,35-39,3.68,f
-7,Pato Branco,40-44,3.42,f
-7,Pato Branco,45-49,3.25,f
-7,Pato Branco,50-54,3.21,f
-7,Pato Branco,55-59,3.04,f
-7,Pato Branco,60-64,2.6,f
-7,Pato Branco,65-69,2.06,f
-7,Pato Branco,70-74,1.53,f
-7,Pato Branco,75-79,1.07,f
-7,Pato Branco,80+,1.3,f
-4,Irati,0-4,3.64,f
-4,Irati,5-9,3.5,f
-4,Irati,10-14,3.25,f
-4,Irati,15-19,3.47,f
-4,Irati,20-24,3.92,f
-4,Irati,25-29,4.18,f
-4,Irati,30-34,3.77,f
-4,Irati,35-39,3.58,f
-4,Irati,40-44,3.5,f
-4,Irati,45-49,3.3,f
-4,Irati,50-54,3.19,f
-4,Irati,55-59,2.86,f
-4,Irati,60-64,2.27,f
-4,Irati,65-69,1.8,f
-4,Irati,70-74,1.31,f
-4,Irati,75-79,0.9,f
-4,Irati,80+,1.0,f
-5,Guarapuava,0-4,3.78,f
-5,Guarapuava,5-9,3.62,f
-5,Guarapuava,10-14,3.23,f
-5,Guarapuava,15-19,3.44,f
-5,Guarapuava,20-24,4.05,f
-5,Guarapuava,25-29,4.17,f
-5,Guarapuava,30-34,3.69,f
-5,Guarapuava,35-39,3.59,f
-5,Guarapuava,40-44,3.51,f
-5,Guarapuava,45-49,3.37,f
-5,Guarapuava,50-54,3.21,f
-5,Guarapuava,55-59,2.94,f
-5,Guarapuava,60-64,2.39,f
-5,Guarapuava,65-69,1.9,f
-5,Guarapuava,70-74,1.35,f
-5,Guarapuava,75-79,0.94,f
-5,Guarapuava,80+,1.11,f
-10,Cascavel,0-4,3.3,f
-10,Cascavel,5-9,3.27,f
-10,Cascavel,10-14,3.1,f
-10,Cascavel,15-19,3.27,f
-10,Cascavel,20-24,3.81,f
-10,Cascavel,25-29,4.11,f
-10,Cascavel,30-34,3.93,f
-10,Cascavel,35-39,3.77,f
-10,Cascavel,40-44,3.6,f
-10,Cascavel,45-49,3.49,f
-10,Cascavel,50-54,3.39,f
-10,Cascavel,55-59,3.09,f
-10,Cascavel,60-64,2.57,f
-10,Cascavel,65-69,2.07,f
-10,Cascavel,70-74,1.53,f
-10,Cascavel,75-79,1.04,f
-10,Cascavel,80+,1.28,f
-21,Telêmaco Borba,0-4,4.11,f
-21,Telêmaco Borba,5-9,3.9,f
-21,Telêmaco Borba,10-14,3.51,f
-21,Telêmaco Borba,15-19,3.55,f
-21,Telêmaco Borba,20-24,4.12,f
-21,Telêmaco Borba,25-29,4.02,f
-21,Telêmaco Borba,30-34,3.72,f
-21,Telêmaco Borba,35-39,3.67,f
-21,Telêmaco Borba,40-44,3.48,f
-21,Telêmaco Borba,45-49,3.17,f
-21,Telêmaco Borba,50-54,2.93,f
-21,Telêmaco Borba,55-59,2.62,f
-21,Telêmaco Borba,60-64,2.08,f
-21,Telêmaco Borba,65-69,1.64,f
-21,Telêmaco Borba,70-74,1.2,f
-21,Telêmaco Borba,75-79,0.83,f
-21,Telêmaco Borba,80+,1.0,f
-3,Ponta Grossa,0-4,3.86,f
-3,Ponta Grossa,5-9,3.72,f
-3,Ponta Grossa,10-14,3.49,f
-3,Ponta Grossa,15-19,3.65,f
-3,Ponta Grossa,20-24,4.08,f
-3,Ponta Grossa,25-29,4.11,f
-3,Ponta Grossa,30-34,3.82,f
-3,Ponta Grossa,35-39,3.71,f
-3,Ponta Grossa,40-44,3.61,f
-3,Ponta Grossa,45-49,3.28,f
-3,Ponta Grossa,50-54,3.02,f
-3,Ponta Grossa,55-59,2.79,f
-3,Ponta Grossa,60-64,2.31,f
-3,Ponta Grossa,65-69,1.81,f
-3,Ponta Grossa,70-74,1.34,f
-3,Ponta Grossa,75-79,0.92,f
-3,Ponta Grossa,80+,1.14,f
-17,Londrina,0-4,3.03,f
-17,Londrina,5-9,3.04,f
-17,Londrina,10-14,3.01,f
-17,Londrina,15-19,3.23,f
-17,Londrina,20-24,3.62,f
-17,Londrina,25-29,3.76,f
-17,Londrina,30-34,3.88,f
-17,Londrina,35-39,3.89,f
-17,Londrina,40-44,3.77,f
-17,Londrina,45-49,3.43,f
-17,Londrina,50-54,3.46,f
-17,Londrina,55-59,3.28,f
-17,Londrina,60-64,2.9,f
-17,Londrina,65-69,2.42,f
-17,Londrina,70-74,1.87,f
-17,Londrina,75-79,1.3,f
-17,Londrina,80+,1.67,f
-18,Cornélio Procópio,0-4,2.96,f
-18,Cornélio Procópio,5-9,2.98,f
-18,Cornélio Procópio,10-14,2.81,f
-18,Cornélio Procópio,15-19,2.8,f
-18,Cornélio Procópio,20-24,3.26,f
-18,Cornélio Procópio,25-29,3.7,f
-18,Cornélio Procópio,30-34,3.64,f
-18,Cornélio Procópio,35-39,3.52,f
-18,Cornélio Procópio,40-44,3.54,f
-18,Cornélio Procópio,45-49,3.55,f
-18,Cornélio Procópio,50-54,3.63,f
-18,Cornélio Procópio,55-59,3.51,f
-18,Cornélio Procópio,60-64,3.02,f
-18,Cornélio Procópio,65-69,2.6,f
-18,Cornélio Procópio,70-74,2.03,f
-18,Cornélio Procópio,75-79,1.44,f
-18,Cornélio Procópio,80+,1.86,f
-20,Toledo,0-4,3.0,f
-20,Toledo,5-9,3.05,f
-20,Toledo,10-14,2.99,f
-20,Toledo,15-19,3.19,f
-20,Toledo,20-24,3.66,f
-20,Toledo,25-29,4.03,f
-20,Toledo,30-34,4.01,f
-20,Toledo,35-39,3.84,f
-20,Toledo,40-44,3.63,f
-20,Toledo,45-49,3.54,f
-20,Toledo,50-54,3.54,f
-20,Toledo,55-59,3.36,f
-20,Toledo,60-64,2.76,f
-20,Toledo,65-69,2.24,f
-20,Toledo,70-74,1.74,f
-20,Toledo,75-79,1.22,f
-20,Toledo,80+,1.34,f
-12,Umuarama,0-4,2.93,f
-12,Umuarama,5-9,2.99,f
-12,Umuarama,10-14,2.96,f
-12,Umuarama,15-19,3.0,f
-12,Umuarama,20-24,3.35,f
-12,Umuarama,25-29,3.76,f
-12,Umuarama,30-34,3.82,f
-12,Umuarama,35-39,3.66,f
-12,Umuarama,40-44,3.56,f
-12,Umuarama,45-49,3.55,f
-12,Umuarama,50-54,3.63,f
-12,Umuarama,55-59,3.33,f
-12,Umuarama,60-64,2.89,f
-12,Umuarama,65-69,2.4,f
-12,Umuarama,70-74,1.87,f
-12,Umuarama,75-79,1.3,f
-12,Umuarama,80+,1.73,f
-8,Francisco Beltrão,0-4,3.16,f
-8,Francisco Beltrão,5-9,3.14,f
-8,Francisco Beltrão,10-14,2.89,f
-8,Francisco Beltrão,15-19,3.02,f
-8,Francisco Beltrão,20-24,3.61,f
-8,Francisco Beltrão,25-29,4.09,f
-8,Francisco Beltrão,30-34,3.92,f
-8,Francisco Beltrão,35-39,3.7,f
-8,Francisco Beltrão,40-44,3.37,f
-8,Francisco Beltrão,45-49,3.35,f
-8,Francisco Beltrão,50-54,3.42,f
-8,Francisco Beltrão,55-59,3.25,f
-8,Francisco Beltrão,60-64,2.75,f
-8,Francisco Beltrão,65-69,2.23,f
-8,Francisco Beltrão,70-74,1.68,f
-8,Francisco Beltrão,75-79,1.16,f
-8,Francisco Beltrão,80+,1.4,f
-22,Ivaiporã,0-4,3.19,f
-22,Ivaiporã,5-9,3.17,f
-22,Ivaiporã,10-14,2.79,f
-22,Ivaiporã,15-19,2.81,f
-22,Ivaiporã,20-24,3.31,f
-22,Ivaiporã,25-29,3.87,f
-22,Ivaiporã,30-34,3.5,f
-22,Ivaiporã,35-39,3.43,f
-22,Ivaiporã,40-44,3.4,f
-22,Ivaiporã,45-49,3.53,f
-22,Ivaiporã,50-54,3.62,f
-22,Ivaiporã,55-59,3.4,f
-22,Ivaiporã,60-64,2.92,f
-22,Ivaiporã,65-69,2.39,f
-22,Ivaiporã,70-74,1.85,f
-22,Ivaiporã,75-79,1.33,f
-22,Ivaiporã,80+,1.6,f
-14,Paranavaí,0-4,3.13,f
-14,Paranavaí,5-9,3.16,f
-14,Paranavaí,10-14,2.99,f
-14,Paranavaí,15-19,3.03,f
-14,Paranavaí,20-24,3.47,f
-14,Paranavaí,25-29,3.88,f
-14,Paranavaí,30-34,3.76,f
-14,Paranavaí,35-39,3.62,f
-14,Paranavaí,40-44,3.5,f
-14,Paranavaí,45-49,3.51,f
-14,Paranavaí,50-54,3.56,f
-14,Paranavaí,55-59,3.36,f
-14,Paranavaí,60-64,2.77,f
-14,Paranavaí,65-69,2.18,f
-14,Paranavaí,70-74,1.72,f
-14,Paranavaí,75-79,1.3,f
-14,Paranavaí,80+,1.6,f
-1,Paranaguá,0-4,3.8,f
-1,Paranaguá,5-9,3.63,f
-1,Paranaguá,10-14,3.24,f
-1,Paranaguá,15-19,3.4,f
-1,Paranaguá,20-24,3.99,f
-1,Paranaguá,25-29,4.02,f
-1,Paranaguá,30-34,3.57,f
-1,Paranaguá,35-39,3.55,f
-1,Paranaguá,40-44,3.63,f
-1,Paranaguá,45-49,3.44,f
-1,Paranaguá,50-54,3.4,f
-1,Paranaguá,55-59,3.14,f
-1,Paranaguá,60-64,2.61,f
-1,Paranaguá,65-69,2.06,f
-1,Paranaguá,70-74,1.48,f
-1,Paranaguá,75-79,1.0,f
-1,Paranaguá,80+,1.17,f
-13,Cianorte,0-4,3.11,f
-13,Cianorte,5-9,3.14,f
-13,Cianorte,10-14,3.09,f
-13,Cianorte,15-19,3.21,f
-13,Cianorte,20-24,3.72,f
-13,Cianorte,25-29,4.01,f
-13,Cianorte,30-34,3.93,f
-13,Cianorte,35-39,3.76,f
-13,Cianorte,40-44,3.65,f
-13,Cianorte,45-49,3.6,f
-13,Cianorte,50-54,3.56,f
-13,Cianorte,55-59,3.18,f
-13,Cianorte,60-64,2.54,f
-13,Cianorte,65-69,1.98,f
-13,Cianorte,70-74,1.55,f
-13,Cianorte,75-79,1.15,f
-13,Cianorte,80+,1.37,f
-6,União da Vitória,0-4,3.68,f
-6,União da Vitória,5-9,3.55,f
-6,União da Vitória,10-14,3.17,f
-6,União da Vitória,15-19,3.41,f
-6,União da Vitória,20-24,3.98,f
-6,União da Vitória,25-29,4.07,f
-6,União da Vitória,30-34,3.75,f
-6,União da Vitória,35-39,3.58,f
-6,União da Vitória,40-44,3.47,f
-6,União da Vitória,45-49,3.35,f
-6,União da Vitória,50-54,3.19,f
-6,União da Vitória,55-59,2.91,f
-6,União da Vitória,60-64,2.31,f
-6,União da Vitória,65-69,1.88,f
-6,União da Vitória,70-74,1.38,f
-6,União da Vitória,75-79,0.95,f
-6,União da Vitória,80+,1.07,f
-2,Curitiba,0-4,3.39,f
-2,Curitiba,5-9,3.3,f
-2,Curitiba,10-14,3.25,f
-2,Curitiba,15-19,3.55,f
-2,Curitiba,20-24,4.02,f
-2,Curitiba,25-29,3.97,f
-2,Curitiba,30-34,3.94,f
-2,Curitiba,35-39,4.05,f
-2,Curitiba,40-44,3.94,f
-2,Curitiba,45-49,3.55,f
-2,Curitiba,50-54,3.27,f
-2,Curitiba,55-59,2.99,f
-2,Curitiba,60-64,2.55,f
-2,Curitiba,65-69,2.02,f
-2,Curitiba,70-74,1.49,f
-2,Curitiba,75-79,0.99,f
-2,Curitiba,80+,1.24,f
-15,Maringá,0-4,2.85,f
-15,Maringá,5-9,2.91,f
-15,Maringá,10-14,2.99,f
-15,Maringá,15-19,3.15,f
-15,Maringá,20-24,3.51,f
-15,Maringá,25-29,3.82,f
-15,Maringá,30-34,4.1,f
-15,Maringá,35-39,3.93,f
-15,Maringá,40-44,3.69,f
-15,Maringá,45-49,3.52,f
-15,Maringá,50-54,3.56,f
-15,Maringá,55-59,3.35,f
-15,Maringá,60-64,2.9,f
-15,Maringá,65-69,2.37,f
-15,Maringá,70-74,1.79,f
-15,Maringá,75-79,1.25,f
-15,Maringá,80+,1.47,f
-19,Jacarezinho,0-4,3.26,f
+22,Ivaiporã,50-54,3.66,m
+22,Ivaiporã,55-59,3.38,m
+22,Ivaiporã,60-64,2.84,m
+22,Ivaiporã,65-69,2.32,m
+22,Ivaiporã,70-74,1.81,m
+22,Ivaiporã,75-79,1.26,m
+22,Ivaiporã,80+,1.46,m
+19,Jacarezinho,0-4,3.28,f
 19,Jacarezinho,5-9,3.22,f
-19,Jacarezinho,10-14,3.0,f
-19,Jacarezinho,15-19,3.06,f
-19,Jacarezinho,20-24,3.54,f
-19,Jacarezinho,25-29,3.78,f
+19,Jacarezinho,10-14,3.05,f
+19,Jacarezinho,15-19,3.16,f
+19,Jacarezinho,20-24,3.64,f
+19,Jacarezinho,25-29,3.82,f
 19,Jacarezinho,30-34,3.77,f
-19,Jacarezinho,35-39,3.68,f
-19,Jacarezinho,40-44,3.57,f
-19,Jacarezinho,45-49,3.43,f
-19,Jacarezinho,50-54,3.41,f
-19,Jacarezinho,55-59,3.27,f
-19,Jacarezinho,60-64,2.77,f
-19,Jacarezinho,65-69,2.24,f
-19,Jacarezinho,70-74,1.7,f
-19,Jacarezinho,75-79,1.18,f
-19,Jacarezinho,80+,1.41,f
-11,Campo Mourão,0-4,2.95,f
-11,Campo Mourão,5-9,2.99,f
-11,Campo Mourão,10-14,2.81,f
-11,Campo Mourão,15-19,2.94,f
-11,Campo Mourão,20-24,3.43,f
-11,Campo Mourão,25-29,3.86,f
-11,Campo Mourão,30-34,3.76,f
-11,Campo Mourão,35-39,3.64,f
-11,Campo Mourão,40-44,3.54,f
-11,Campo Mourão,45-49,3.63,f
-11,Campo Mourão,50-54,3.76,f
-11,Campo Mourão,55-59,3.51,f
-11,Campo Mourão,60-64,2.94,f
-11,Campo Mourão,65-69,2.37,f
-11,Campo Mourão,70-74,1.77,f
-11,Campo Mourão,75-79,1.27,f
-11,Campo Mourão,80+,1.66,f
-9,Foz do Iguaçu,0-4,3.46,f
-9,Foz do Iguaçu,5-9,3.43,f
-9,Foz do Iguaçu,10-14,3.25,f
-9,Foz do Iguaçu,15-19,3.35,f
-9,Foz do Iguaçu,20-24,3.87,f
-9,Foz do Iguaçu,25-29,4.12,f
-9,Foz do Iguaçu,30-34,3.9,f
-9,Foz do Iguaçu,35-39,3.76,f
-9,Foz do Iguaçu,40-44,3.75,f
-9,Foz do Iguaçu,45-49,3.57,f
-9,Foz do Iguaçu,50-54,3.5,f
-9,Foz do Iguaçu,55-59,3.28,f
-9,Foz do Iguaçu,60-64,2.75,f
-9,Foz do Iguaçu,65-69,2.12,f
-9,Foz do Iguaçu,70-74,1.53,f
-9,Foz do Iguaçu,75-79,1.04,f
-9,Foz do Iguaçu,80+,1.17,f
-16,Apucarana,0-4,3.11,f
-16,Apucarana,5-9,3.14,f
-16,Apucarana,10-14,3.08,f
-16,Apucarana,15-19,3.2,f
-16,Apucarana,20-24,3.59,f
-16,Apucarana,25-29,3.83,f
-16,Apucarana,30-34,3.85,f
-16,Apucarana,35-39,3.77,f
-16,Apucarana,40-44,3.67,f
-16,Apucarana,45-49,3.44,f
-16,Apucarana,50-54,3.48,f
-16,Apucarana,55-59,3.19,f
-16,Apucarana,60-64,2.72,f
-16,Apucarana,65-69,2.25,f
-16,Apucarana,70-74,1.73,f
-16,Apucarana,75-79,1.25,f
-16,Apucarana,80+,1.61,f
+19,Jacarezinho,35-39,3.67,f
+19,Jacarezinho,40-44,3.55,f
+19,Jacarezinho,45-49,3.42,f
+19,Jacarezinho,50-54,3.42,f
+19,Jacarezinho,55-59,3.24,f
+19,Jacarezinho,60-64,2.7,f
+19,Jacarezinho,65-69,2.18,f
+19,Jacarezinho,70-74,1.65,f
+19,Jacarezinho,75-79,1.14,f
+19,Jacarezinho,80+,1.37,f
+19,Jacarezinho,0-4,3.44,m
+19,Jacarezinho,5-9,3.41,m
+19,Jacarezinho,10-14,3.23,m
+19,Jacarezinho,15-19,3.31,m
+19,Jacarezinho,20-24,3.69,m
+19,Jacarezinho,25-29,3.87,m
+19,Jacarezinho,30-34,3.7,m
+19,Jacarezinho,35-39,3.65,m
+19,Jacarezinho,40-44,3.41,m
+19,Jacarezinho,45-49,3.25,m
+19,Jacarezinho,50-54,3.29,m
+19,Jacarezinho,55-59,3.15,m
+19,Jacarezinho,60-64,2.6,m
+19,Jacarezinho,65-69,2.06,m
+19,Jacarezinho,70-74,1.56,m
+19,Jacarezinho,75-79,0.97,m
+19,Jacarezinho,80+,1.12,m
+17,Londrina,0-4,3.06,f
+17,Londrina,5-9,3.04,f
+17,Londrina,10-14,3.07,f
+17,Londrina,15-19,3.32,f
+17,Londrina,20-24,3.69,f
+17,Londrina,25-29,3.79,f
+17,Londrina,30-34,3.94,f
+17,Londrina,35-39,3.91,f
+17,Londrina,40-44,3.75,f
+17,Londrina,45-49,3.41,f
+17,Londrina,50-54,3.5,f
+17,Londrina,55-59,3.23,f
+17,Londrina,60-64,2.85,f
+17,Londrina,65-69,2.35,f
+17,Londrina,70-74,1.8,f
+17,Londrina,75-79,1.24,f
+17,Londrina,80+,1.6,f
+17,Londrina,0-4,3.21,m
+17,Londrina,5-9,3.18,m
+17,Londrina,10-14,3.2,m
+17,Londrina,15-19,3.43,m
+17,Londrina,20-24,3.79,m
+17,Londrina,25-29,3.76,m
+17,Londrina,30-34,3.82,m
+17,Londrina,35-39,3.69,m
+17,Londrina,40-44,3.5,m
+17,Londrina,45-49,3.17,m
+17,Londrina,50-54,3.11,m
+17,Londrina,55-59,2.81,m
+17,Londrina,60-64,2.38,m
+17,Londrina,65-69,1.91,m
+17,Londrina,70-74,1.42,m
+17,Londrina,75-79,0.98,m
+17,Londrina,80+,1.1,m
+15,Maringá,0-4,2.88,f
+15,Maringá,5-9,2.92,f
+15,Maringá,10-14,3.04,f
+15,Maringá,15-19,3.21,f
+15,Maringá,20-24,3.58,f
+15,Maringá,25-29,3.89,f
+15,Maringá,30-34,4.19,f
+15,Maringá,35-39,3.9,f
+15,Maringá,40-44,3.66,f
+15,Maringá,45-49,3.54,f
+15,Maringá,50-54,3.6,f
+15,Maringá,55-59,3.3,f
+15,Maringá,60-64,2.84,f
+15,Maringá,65-69,2.3,f
+15,Maringá,70-74,1.72,f
+15,Maringá,75-79,1.2,f
+15,Maringá,80+,1.4,f
+15,Maringá,0-4,3.02,m
+15,Maringá,5-9,3.06,m
+15,Maringá,10-14,3.21,m
+15,Maringá,15-19,3.45,m
+15,Maringá,20-24,3.79,m
+15,Maringá,25-29,3.94,m
+15,Maringá,30-34,4.19,m
+15,Maringá,35-39,3.84,m
+15,Maringá,40-44,3.46,m
+15,Maringá,45-49,3.24,m
+15,Maringá,50-54,3.21,m
+15,Maringá,55-59,2.88,m
+15,Maringá,60-64,2.34,m
+15,Maringá,65-69,1.89,m
+15,Maringá,70-74,1.39,m
+15,Maringá,75-79,0.93,m
+15,Maringá,80+,0.98,m
+01,Paranaguá,0-4,3.84,f
+01,Paranaguá,5-9,3.62,f
+01,Paranaguá,10-14,3.28,f
+01,Paranaguá,15-19,3.55,f
+01,Paranaguá,20-24,4.12,f
+01,Paranaguá,25-29,4.01,f
+01,Paranaguá,30-34,3.5,f
+01,Paranaguá,35-39,3.59,f
+01,Paranaguá,40-44,3.65,f
+01,Paranaguá,45-49,3.42,f
+01,Paranaguá,50-54,3.4,f
+01,Paranaguá,55-59,3.08,f
+01,Paranaguá,60-64,2.53,f
+01,Paranaguá,65-69,2.01,f
+01,Paranaguá,70-74,1.41,f
+01,Paranaguá,75-79,0.96,f
+01,Paranaguá,80+,1.1,f
+01,Paranaguá,0-4,4.02,m
+01,Paranaguá,5-9,3.81,m
+01,Paranaguá,10-14,3.42,m
+01,Paranaguá,15-19,3.6,m
+01,Paranaguá,20-24,4.07,m
+01,Paranaguá,25-29,3.88,m
+01,Paranaguá,30-34,3.36,m
+01,Paranaguá,35-39,3.36,m
+01,Paranaguá,40-44,3.27,m
+01,Paranaguá,45-49,3.26,m
+01,Paranaguá,50-54,3.11,m
+01,Paranaguá,55-59,2.9,m
+01,Paranaguá,60-64,2.32,m
+01,Paranaguá,65-69,1.78,m
+01,Paranaguá,70-74,1.24,m
+01,Paranaguá,75-79,0.77,m
+01,Paranaguá,80+,0.75,m
+14,Paranavaí,0-4,3.16,f
+14,Paranavaí,5-9,3.17,f
+14,Paranavaí,10-14,3.03,f
+14,Paranavaí,15-19,3.12,f
+14,Paranavaí,20-24,3.57,f
+14,Paranavaí,25-29,3.97,f
+14,Paranavaí,30-34,3.73,f
+14,Paranavaí,35-39,3.62,f
+14,Paranavaí,40-44,3.48,f
+14,Paranavaí,45-49,3.55,f
+14,Paranavaí,50-54,3.58,f
+14,Paranavaí,55-59,3.31,f
+14,Paranavaí,60-64,2.68,f
+14,Paranavaí,65-69,2.1,f
+14,Paranavaí,70-74,1.68,f
+14,Paranavaí,75-79,1.27,f
+14,Paranavaí,80+,1.53,f
+14,Paranavaí,0-4,3.31,m
+14,Paranavaí,5-9,3.34,m
+14,Paranavaí,10-14,3.33,m
+14,Paranavaí,15-19,3.28,m
+14,Paranavaí,20-24,3.65,m
+14,Paranavaí,25-29,4.03,m
+14,Paranavaí,30-34,3.82,m
+14,Paranavaí,35-39,3.58,m
+14,Paranavaí,40-44,3.35,m
+14,Paranavaí,45-49,3.38,m
+14,Paranavaí,50-54,3.41,m
+14,Paranavaí,55-59,3.04,m
+14,Paranavaí,60-64,2.46,m
+14,Paranavaí,65-69,1.84,m
+14,Paranavaí,70-74,1.37,m
+14,Paranavaí,75-79,1.0,m
+14,Paranavaí,80+,1.26,m
+07,Pato Branco,0-4,3.63,f
+07,Pato Branco,5-9,3.5,f
+07,Pato Branco,10-14,3.29,f
+07,Pato Branco,15-19,3.46,f
+07,Pato Branco,20-24,4.01,f
+07,Pato Branco,25-29,4.18,f
+07,Pato Branco,30-34,3.8,f
+07,Pato Branco,35-39,3.68,f
+07,Pato Branco,40-44,3.39,f
+07,Pato Branco,45-49,3.27,f
+07,Pato Branco,50-54,3.23,f
+07,Pato Branco,55-59,3.02,f
+07,Pato Branco,60-64,2.54,f
+07,Pato Branco,65-69,1.98,f
+07,Pato Branco,70-74,1.46,f
+07,Pato Branco,75-79,1.04,f
+07,Pato Branco,80+,1.24,f
+07,Pato Branco,0-4,3.8,m
+07,Pato Branco,5-9,3.69,m
+07,Pato Branco,10-14,3.47,m
+07,Pato Branco,15-19,3.57,m
+07,Pato Branco,20-24,4.05,m
+07,Pato Branco,25-29,4.25,m
+07,Pato Branco,30-34,3.79,m
+07,Pato Branco,35-39,3.54,m
+07,Pato Branco,40-44,3.18,m
+07,Pato Branco,45-49,3.06,m
+07,Pato Branco,50-54,3.02,m
+07,Pato Branco,55-59,2.75,m
+07,Pato Branco,60-64,2.27,m
+07,Pato Branco,65-69,1.84,m
+07,Pato Branco,70-74,1.3,m
+07,Pato Branco,75-79,0.83,m
+07,Pato Branco,80+,0.87,m
+03,Ponta Grossa,0-4,3.89,f
+03,Ponta Grossa,5-9,3.7,f
+03,Ponta Grossa,10-14,3.53,f
+03,Ponta Grossa,15-19,3.77,f
+03,Ponta Grossa,20-24,4.16,f
+03,Ponta Grossa,25-29,4.12,f
+03,Ponta Grossa,30-34,3.8,f
+03,Ponta Grossa,35-39,3.73,f
+03,Ponta Grossa,40-44,3.62,f
+03,Ponta Grossa,45-49,3.25,f
+03,Ponta Grossa,50-54,3.0,f
+03,Ponta Grossa,55-59,2.76,f
+03,Ponta Grossa,60-64,2.25,f
+03,Ponta Grossa,65-69,1.76,f
+03,Ponta Grossa,70-74,1.29,f
+03,Ponta Grossa,75-79,0.89,f
+03,Ponta Grossa,80+,1.1,f
+03,Ponta Grossa,0-4,4.08,m
+03,Ponta Grossa,5-9,3.89,m
+03,Ponta Grossa,10-14,3.71,m
+03,Ponta Grossa,15-19,3.95,m
+03,Ponta Grossa,20-24,4.32,m
+03,Ponta Grossa,25-29,4.18,m
+03,Ponta Grossa,30-34,3.8,m
+03,Ponta Grossa,35-39,3.71,m
+03,Ponta Grossa,40-44,3.49,m
+03,Ponta Grossa,45-49,3.12,m
+03,Ponta Grossa,50-54,2.81,m
+03,Ponta Grossa,55-59,2.44,m
+03,Ponta Grossa,60-64,2.0,m
+03,Ponta Grossa,65-69,1.51,m
+03,Ponta Grossa,70-74,1.05,m
+03,Ponta Grossa,75-79,0.64,m
+03,Ponta Grossa,80+,0.66,m
+21,Telêmaco Borba,0-4,4.13,f
+21,Telêmaco Borba,5-9,3.88,f
+21,Telêmaco Borba,10-14,3.54,f
+21,Telêmaco Borba,15-19,3.66,f
+21,Telêmaco Borba,20-24,4.25,f
+21,Telêmaco Borba,25-29,3.98,f
+21,Telêmaco Borba,30-34,3.69,f
+21,Telêmaco Borba,35-39,3.7,f
+21,Telêmaco Borba,40-44,3.46,f
+21,Telêmaco Borba,45-49,3.15,f
+21,Telêmaco Borba,50-54,2.92,f
+21,Telêmaco Borba,55-59,2.58,f
+21,Telêmaco Borba,60-64,2.02,f
+21,Telêmaco Borba,65-69,1.62,f
+21,Telêmaco Borba,70-74,1.17,f
+21,Telêmaco Borba,75-79,0.81,f
+21,Telêmaco Borba,80+,0.97,f
+21,Telêmaco Borba,0-4,4.34,m
+21,Telêmaco Borba,5-9,4.12,m
+21,Telêmaco Borba,10-14,3.74,m
+21,Telêmaco Borba,15-19,3.87,m
+21,Telêmaco Borba,20-24,4.24,m
+21,Telêmaco Borba,25-29,4.03,m
+21,Telêmaco Borba,30-34,3.73,m
+21,Telêmaco Borba,35-39,3.68,m
+21,Telêmaco Borba,40-44,3.51,m
+21,Telêmaco Borba,45-49,3.23,m
+21,Telêmaco Borba,50-54,2.82,m
+21,Telêmaco Borba,55-59,2.59,m
+21,Telêmaco Borba,60-64,2.17,m
+21,Telêmaco Borba,65-69,1.57,m
+21,Telêmaco Borba,70-74,1.18,m
+21,Telêmaco Borba,75-79,0.8,m
+21,Telêmaco Borba,80+,0.81,m
+20,Toledo,0-4,3.02,f
+20,Toledo,5-9,3.05,f
+20,Toledo,10-14,3.04,f
+20,Toledo,15-19,3.29,f
+20,Toledo,20-24,3.75,f
+20,Toledo,25-29,4.1,f
+20,Toledo,30-34,4.01,f
+20,Toledo,35-39,3.82,f
+20,Toledo,40-44,3.61,f
+20,Toledo,45-49,3.57,f
+20,Toledo,50-54,3.56,f
+20,Toledo,55-59,3.32,f
+20,Toledo,60-64,2.64,f
+20,Toledo,65-69,2.17,f
+20,Toledo,70-74,1.68,f
+20,Toledo,75-79,1.18,f
+20,Toledo,80+,1.29,f
+20,Toledo,0-4,3.17,m
+20,Toledo,5-9,3.18,m
+20,Toledo,10-14,3.15,m
+20,Toledo,15-19,3.34,m
+20,Toledo,20-24,3.76,m
+20,Toledo,25-29,4.05,m
+20,Toledo,30-34,3.98,m
+20,Toledo,35-39,3.7,m
+20,Toledo,40-44,3.42,m
+20,Toledo,45-49,3.34,m
+20,Toledo,50-54,3.29,m
+20,Toledo,55-59,2.96,m
+20,Toledo,60-64,2.34,m
+20,Toledo,65-69,1.86,m
+20,Toledo,70-74,1.4,m
+20,Toledo,75-79,0.96,m
+20,Toledo,80+,1.0,m
+12,Umuarama,0-4,2.96,f
+12,Umuarama,5-9,3.0,f
+12,Umuarama,10-14,3.01,f
+12,Umuarama,15-19,3.07,f
+12,Umuarama,20-24,3.43,f
+12,Umuarama,25-29,3.85,f
+12,Umuarama,30-34,3.84,f
+12,Umuarama,35-39,3.63,f
+12,Umuarama,40-44,3.56,f
+12,Umuarama,45-49,3.57,f
+12,Umuarama,50-54,3.65,f
+12,Umuarama,55-59,3.26,f
+12,Umuarama,60-64,2.83,f
+12,Umuarama,65-69,2.34,f
+12,Umuarama,70-74,1.82,f
+12,Umuarama,75-79,1.25,f
+12,Umuarama,80+,1.67,f
+12,Umuarama,0-4,3.11,m
+12,Umuarama,5-9,3.15,m
+12,Umuarama,10-14,3.09,m
+12,Umuarama,15-19,3.19,m
+12,Umuarama,20-24,3.46,m
+12,Umuarama,25-29,3.86,m
+12,Umuarama,30-34,3.9,m
+12,Umuarama,35-39,3.68,m
+12,Umuarama,40-44,3.5,m
+12,Umuarama,45-49,3.34,m
+12,Umuarama,50-54,3.41,m
+12,Umuarama,55-59,3.04,m
+12,Umuarama,60-64,2.51,m
+12,Umuarama,65-69,1.95,m
+12,Umuarama,70-74,1.56,m
+12,Umuarama,75-79,1.11,m
+12,Umuarama,80+,1.39,m
+06,União da Vitória,0-4,3.71,f
+06,União da Vitória,5-9,3.54,f
+06,União da Vitória,10-14,3.19,f
+06,União da Vitória,15-19,3.58,f
+06,União da Vitória,20-24,4.1,f
+06,União da Vitória,25-29,4.08,f
+06,União da Vitória,30-34,3.7,f
+06,União da Vitória,35-39,3.57,f
+06,União da Vitória,40-44,3.47,f
+06,União da Vitória,45-49,3.36,f
+06,União da Vitória,50-54,3.18,f
+06,União da Vitória,55-59,2.86,f
+06,União da Vitória,60-64,2.21,f
+06,União da Vitória,65-69,1.85,f
+06,União da Vitória,70-74,1.32,f
+06,União da Vitória,75-79,0.93,f
+06,União da Vitória,80+,1.04,f
+06,União da Vitória,0-4,3.9,m
+06,União da Vitória,5-9,3.72,m
+06,União da Vitória,10-14,3.51,m
+06,União da Vitória,15-19,3.87,m
+06,União da Vitória,20-24,4.26,m
+06,União da Vitória,25-29,4.14,m
+06,União da Vitória,30-34,3.71,m
+06,União da Vitória,35-39,3.63,m
+06,União da Vitória,40-44,3.62,m
+06,União da Vitória,45-49,3.38,m
+06,União da Vitória,50-54,3.12,m
+06,União da Vitória,55-59,2.81,m
+06,União da Vitória,60-64,2.26,m
+06,União da Vitória,65-69,1.72,m
+06,União da Vitória,70-74,1.15,m
+06,União da Vitória,75-79,0.73,m
+06,União da Vitória,80+,0.79,m
