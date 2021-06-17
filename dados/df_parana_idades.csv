@@ -1,5 +1,4 @@
 sexo,idade,casosAcumulados,obitosAcumulados,localidade,codigo
-f,-99,0.0,0.0,Paraná,41
 f,0-4,0.8,0.0,Paraná,41
 f,10-14,1.3,0.0,Paraná,41
 f,15-19,2.8,0.1,Paraná,41
@@ -17,7 +16,6 @@ f,65-69,1.8,5.7,Paraná,41
 f,70-74,1.2,5.3,Paraná,41
 f,75-79,0.8,4.9,Paraná,41
 f,80+,0.9,9.0,Paraná,41
-m,-99,0.0,0.0,Paraná,41
 m,0-4,0.9,0.0,Paraná,41
 m,10-14,1.1,0.0,Paraná,41
 m,15-19,2.5,0.1,Paraná,41
@@ -1182,7 +1180,6 @@ m,70-74,100.0,,Bela Vista da Caroba,4102752
 m,75-79,300.0,,Bela Vista da Caroba,4102752
 m,80+,200.0,inf,Bela Vista da Caroba,4102752
 m,35-39,100.0,,Bela Vista da Caroba,4102752
-f,-99,0.1,0.0,Bela Vista do Paraíso,4102802
 f,0-4,1.2,0.0,Bela Vista do Paraíso,4102802
 f,10-14,1.5,0.0,Bela Vista do Paraíso,4102802
 f,15-19,2.6,0.0,Bela Vista do Paraíso,4102802
@@ -1926,7 +1923,6 @@ m,65-69,1.9,0.0,Campina do Simão,4103958
 m,70-74,1.4,0.0,Campina do Simão,4103958
 m,75-79,0.8,7.7,Campina do Simão,4103958
 m,80+,0.3,7.7,Campina do Simão,4103958
-f,-99,0.0,0.0,Campina Grande do Sul,4104006
 f,0-4,0.3,0.0,Campina Grande do Sul,4104006
 f,10-14,1.5,0.0,Campina Grande do Sul,4104006
 f,15-19,2.6,0.0,Campina Grande do Sul,4104006
@@ -3212,7 +3208,6 @@ m,65-69,0.9,0.0,Cruzmaltina,4106852
 m,70-74,2.8,20.0,Cruzmaltina,4106852
 m,75-79,0.9,0.0,Cruzmaltina,4106852
 m,80+,0.9,0.0,Cruzmaltina,4106852
-f,-99,0.0,0.0,Curitiba,4106902
 f,0-4,0.9,0.0,Curitiba,4106902
 f,10-14,1.1,0.0,Curitiba,4106902
 f,15-19,2.6,0.1,Curitiba,4106902
@@ -3230,7 +3225,6 @@ f,65-69,1.9,6.0,Curitiba,4106902
 f,70-74,1.3,5.7,Curitiba,4106902
 f,75-79,0.8,5.5,Curitiba,4106902
 f,80+,1.2,11.1,Curitiba,4106902
-m,-99,0.0,0.0,Curitiba,4106902
 m,0-4,1.0,0.0,Curitiba,4106902
 m,10-14,1.0,0.0,Curitiba,4106902
 m,15-19,2.2,0.1,Curitiba,4106902
@@ -5001,7 +4995,6 @@ m,65-69,2.1,13.0,Imbaú,4110078
 m,70-74,1.0,4.3,Imbaú,4110078
 m,75-79,0.8,2.2,Imbaú,4110078
 m,80+,0.8,10.9,Imbaú,4110078
-f,-99,0.0,0.0,Imbituva,4110102
 f,0-4,1.0,0.0,Imbituva,4110102
 f,10-14,1.7,0.0,Imbituva,4110102
 f,15-19,3.8,1.2,Imbituva,4110102
@@ -11917,7 +11910,6 @@ m,60-64,0.6,0.0,São Manoel do Paraná,4125555
 m,65-69,2.8,50.0,São Manoel do Paraná,4125555
 m,70-74,1.1,0.0,São Manoel do Paraná,4125555
 m,80+,1.1,0.0,São Manoel do Paraná,4125555
-f,-99,0.0,0.0,São Mateus do Sul,4125605
 f,0-4,0.4,0.0,São Mateus do Sul,4125605
 f,10-14,1.4,0.0,São Mateus do Sul,4125605
 f,15-19,3.2,0.0,São Mateus do Sul,4125605
@@ -13469,7 +13461,6 @@ m,65-69,1.7,0.0,Xambrê,4128807
 m,70-74,2.0,16.7,Xambrê,4128807
 m,75-79,0.7,0.0,Xambrê,4128807
 m,80+,1.2,0.0,Xambrê,4128807
-f,-99,0.0,,NUC,0
 f,0-4,0.7,0.0,NUC,0
 f,10-14,1.1,0.0,NUC,0
 f,15-19,2.8,0.1,NUC,0
@@ -13487,7 +13478,6 @@ f,65-69,1.7,6.2,NUC,0
 f,70-74,1.1,5.7,NUC,0
 f,75-79,0.7,5.3,NUC,0
 f,80+,0.9,9.7,NUC,0
-m,-99,0.0,,NUC,0
 m,0-4,0.8,0.0,NUC,0
 m,10-14,1.0,0.0,NUC,0
 m,15-19,2.4,0.1,NUC,0
